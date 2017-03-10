@@ -31,137 +31,137 @@
 <Text Id="Focus_Info_Hint" DisplayName="정보"/>
 
 
-<Text Id="Focus_Info_Combat_LowHealth_1" DisplayName="턴()은 목숨이 위험할 때 자동으로 발동됩니다."/>
-<Text Id="Focus_Info_Combat_LowHealth_2" DisplayName="턴() 이 회복 중일 때는 되도록 맞지 마세요."/>
-<Text Id="Focus_Info_Combat_LowHealth_3" DisplayName="플레이어는 턴()을 복구할 때 피격당할 수 있습니다."/>
-<Text Id="Focus_Info_Combat_LowHealth_4" DisplayName="만약 턴() 복구 도중 목숨이 바닥난다면, 기능이 과부하에 걸려 멈추게 됩니다."/>
+<Text Id="Focus_Info_Combat_LowHealth_1" DisplayName="turn()은 목숨이 위험할 때 자동으로 발동됩니다."/>
+<Text Id="Focus_Info_Combat_LowHealth_2" DisplayName="turn() 이 회복 중일 때는 되도록 맞지 마세요."/>
+<Text Id="Focus_Info_Combat_LowHealth_3" DisplayName="플레이어는 turn()을 복구할 때 피격당할 수 있습니다."/>
+<Text Id="Focus_Info_Combat_LowHealth_4" DisplayName="만약 turn() 복구 도중 목숨이 바닥난다면, 기능이 과부하에 걸려 멈추게 됩니다."/>
 <Text Id="Focus_Info_Combat_LowHealth_5" DisplayName="목숨은 전투가 끝날 시 회복됩니다."/>
 
 <Text Id="Focus_Info_Combat_LifeLost_1" DisplayName="과부하된 기능은 액세스 포인트에서 복구됩니다."/>
 <Text Id="Focus_Info_Combat_LifeLost_2" DisplayName="목숨을 나타내는 바와 연결된 금색 선은 어떤 기능이 과부하가 될지를 알려줍니다."/>
 <Text Id="Focus_Info_Combat_LifeLost_3" DisplayName="과부하된 기능은 복구 전까지 사용할 수 없습니다."/>
 
-<Text Id="Focus_Info_Combat_ArchonAttack_1" DisplayName="슈퍼유저 상태는 턴() 사용 도중 25% 확률로 발생할 수 있습니다."/>
-<Text Id="Focus_Info_Combat_ArchonAttack_2" DisplayName="슈퍼유저는 암살() 함수로만 '프로세스'를 파괴할 수 있습니다."/>
-<Text Id="Focus_Info_Combat_ArchonAttack_3" DisplayName="암살()은 100% 확률로 셀이 다시 자라나는 것을 방지합니다."/>
-<Text Id="Focus_Info_Combat_ArchonAttack_4" DisplayName="유저는 암살()의 효과를 받지 않습니다."/>
+<Text Id="Focus_Info_Combat_ArchonAttack_1" DisplayName="슈퍼유저 상태는 turn() 사용 도중 25% 확률로 발생할 수 있습니다."/>
+<Text Id="Focus_Info_Combat_ArchonAttack_2" DisplayName="슈퍼유저는 kill() 함수로만 '프로세스'를 파괴할 수 있습니다."/>
+<Text Id="Focus_Info_Combat_ArchonAttack_3" DisplayName="kill()은 100% 확률로 셀이 다시 자라나는 것을 방지합니다."/>
+<Text Id="Focus_Info_Combat_ArchonAttack_4" DisplayName="유저는 kill()의 효과를 받지 않습니다."/>
 <Text Id="Focus_Info_Combat_ArchonAttack_5" DisplayName="슈퍼유저 상태 허가. 즐거운 시간 되세요."/>
 
-<Text Id="Focus_Info_Combat_Slam_1" DisplayName="내려찍기()를 사용해 적을 다른 함수에도 피격할 수 있게 만드세요."/>
-<Text Id="Focus_Info_Combat_Slam_2" DisplayName="내려찍기()는 다수의 적을 때릴 수 있습니다."/>
-<Text Id="Focus_Info_Combat_Slam_3" DisplayName="내려찍기()는 적 대부분을 행동불가 상태로 만듭니다."/>
-<Text Id="Focus_Info_Combat_Slam_4" DisplayName="내려찍기()는 다른 함수들을 더 파괴적으로 강화할 수 있습니다."/>
-<Text Id="Focus_Info_Combat_Slam_5" DisplayName="내려찍기()로 다른 함수들을 많은 적에게 더 효과적으로 만드세요."/>
-<Text Id="Focus_Info_Combat_Slam_6" DisplayName="내려찍기()를 패시브에 장착할 경우 속도를 느리게 하는 공격에 면역됩니다."/>
+<Text Id="Focus_Info_Combat_Slam_1" DisplayName="crash()를 사용해 적을 다른 함수에도 피격할 수 있게 만드세요."/>
+<Text Id="Focus_Info_Combat_Slam_2" DisplayName="crash()는 다수의 적을 때릴 수 있습니다."/>
+<Text Id="Focus_Info_Combat_Slam_3" DisplayName="crash()는 적 대부분을 행동불가 상태로 만듭니다."/>
+<Text Id="Focus_Info_Combat_Slam_4" DisplayName="crash()는 다른 함수들을 더 파괴적으로 강화할 수 있습니다."/>
+<Text Id="Focus_Info_Combat_Slam_5" DisplayName="crash()로 다른 함수들을 많은 적에게 더 효과적으로 만드세요."/>
+<Text Id="Focus_Info_Combat_Slam_6" DisplayName="crash()를 패시브에 장착할 경우 속도를 느리게 하는 공격에 면역됩니다."/>
 
-<Text Id="Focus_Info_Combat_Snipe_1" DisplayName="붕괴시키기()를 사용해 적들과 지형을 관통하는 공격이 가능합니다."/>
-<Text Id="Focus_Info_Combat_Snipe_2" DisplayName="붕괴시키기()는 멀리서 적들을 공격할 때 유용합니다."/>
-<Text Id="Focus_Info_Combat_Snipe_3" DisplayName="적의 뒤에서 공격하면 붕괴시키기()의 효과를 극대화할 수 있습니다."/>
-<Text Id="Focus_Info_Combat_Snipe_4" DisplayName="붕괴시키기()는 다른 함수들의 범위를 증가시킵니다."/>
-<Text Id="Focus_Info_Combat_Snipe_5" DisplayName="붕괴시키기()는 상대를 넉백시켜 플레이어에게 엄폐할 시간을 제공합니다."/>
-<Text Id="Focus_Info_Combat_Snipe_6" DisplayName="붕괴시키기()를 패시브에 장착할 경우 함수의 턴() 소모가 줄어듭니다."/>
+<Text Id="Focus_Info_Combat_Snipe_1" DisplayName="breach()를 사용해 적들과 지형을 관통하는 공격이 가능합니다."/>
+<Text Id="Focus_Info_Combat_Snipe_2" DisplayName="breach()는 멀리서 적들을 공격할 때 유용합니다."/>
+<Text Id="Focus_Info_Combat_Snipe_3" DisplayName="적의 뒤에서 공격하면 breach()의 효과를 극대화할 수 있습니다."/>
+<Text Id="Focus_Info_Combat_Snipe_4" DisplayName="breach()는 다른 함수들의 범위를 증가시킵니다."/>
+<Text Id="Focus_Info_Combat_Snipe_5" DisplayName="breach()는 상대를 넉백시켜 플레이어에게 엄폐할 시간을 제공합니다."/>
+<Text Id="Focus_Info_Combat_Snipe_6" DisplayName="breach()를 패시브에 장착할 경우 함수의 turn() 소모가 줄어듭니다."/>
 
-<Text Id="Focus_Info_Combat_Clusterbomb_1" DisplayName="전격 클러스터()는 적에게 닿을 경우 그 주변 범위에 흩어지는 추가 공격을 합니다."/>
-<Text Id="Focus_Info_Combat_Clusterbomb_2" DisplayName="전격 클러스터()는 밀집된 적들에게 효과적입니다."/>
-<Text Id="Focus_Info_Combat_Clusterbomb_3" DisplayName="전격 클러스터()는 턴() 이 끝난 후에도 높은 효율을 보여줍니다."/>
-<Text Id="Focus_Info_Combat_Clusterbomb_4" DisplayName="전격 클러스터()는 다른 함수들의 효과를 나누거나 배가 되게 할 수 있습니다."/>
-<Text Id="Focus_Info_Combat_Clusterbomb_5" DisplayName="전격 클러스터()는 거대한 적에게 효과적입니다."/>
-<Text Id="Focus_Info_Combat_Clusterbomb_6" DisplayName="전격 클러스터()를 패시브에 장착할 경우 피격 시 분신을 소환합니다."/>
+<Text Id="Focus_Info_Combat_Clusterbomb_1" DisplayName="spark()는 적에게 닿을 경우 그 주변 범위에 흩어지는 추가 공격을 합니다."/>
+<Text Id="Focus_Info_Combat_Clusterbomb_2" DisplayName="spark()는 밀집된 적들에게 효과적입니다."/>
+<Text Id="Focus_Info_Combat_Clusterbomb_3" DisplayName="spark()는 turn() 이 끝난 후에도 높은 효율을 보여줍니다."/>
+<Text Id="Focus_Info_Combat_Clusterbomb_4" DisplayName="spark()는 다른 함수들의 효과를 나누거나 배가 되게 할 수 있습니다."/>
+<Text Id="Focus_Info_Combat_Clusterbomb_5" DisplayName="spark()는 거대한 적에게 효과적입니다."/>
+<Text Id="Focus_Info_Combat_Clusterbomb_6" DisplayName="spark()를 패시브에 장착할 경우 피격 시 분신을 소환합니다."/>
 
-<Text Id="Focus_Info_Combat_Blink_1" DisplayName="순보()는 턴() 이 복구 중인 상태에서도 사용할 수 있습니다."/>
-<Text Id="Focus_Info_Combat_Blink_2" DisplayName="순보()는 적의 뒤로 이동하거나 안전거리를 확보하기에 용이합니다."/>
-<Text Id="Focus_Info_Combat_Blink_3" DisplayName="순보() 플레이어가 쓰러질 경우 짧은 복구 시간을 가지고 있습니다."/>
-<Text Id="Focus_Info_Combat_Blink_4" DisplayName="순보()는 다른 함수들의 턴() 소모량을 줄여줄 수 있습니다."/>
-<Text Id="Focus_Info_Combat_Blink_5" DisplayName="순보()는 턴()를 설계 시 유용하며, 일반 이동보다 효과적일 수 있습니다."/>
-<Text Id="Focus_Info_Combat_Blink_6" DisplayName="순보()를 패시브에 장착할 경우 턴() 사용 후 재사용 대기시간이 줄어듭니다."/>
+<Text Id="Focus_Info_Combat_Blink_1" DisplayName="jaunt()는 turn() 이 복구 중인 상태에서도 사용할 수 있습니다."/>
+<Text Id="Focus_Info_Combat_Blink_2" DisplayName="jaunt()는 적의 뒤로 이동하거나 안전거리를 확보하기에 용이합니다."/>
+<Text Id="Focus_Info_Combat_Blink_3" DisplayName="jaunt() 플레이어가 쓰러질 경우 짧은 복구 시간을 가지고 있습니다."/>
+<Text Id="Focus_Info_Combat_Blink_4" DisplayName="jaunt()는 다른 함수들의 turn() 소모량을 줄여줄 수 있습니다."/>
+<Text Id="Focus_Info_Combat_Blink_5" DisplayName="jaunt()는 turn()를 설계 시 유용하며, 일반 이동보다 효과적일 수 있습니다."/>
+<Text Id="Focus_Info_Combat_Blink_6" DisplayName="jaunt()를 패시브에 장착할 경우 turn() 사용 후 재사용 대기시간이 줄어듭니다."/>
 
-<Text Id="Focus_Info_Combat_Charm_1" DisplayName="매혹()은 적에게 다른 적을 공격하게 할 수 있습니다."/>
-<Text Id="Focus_Info_Combat_Charm_2" DisplayName="매혹()의 대상은 플레이어의 공격 대상이 될 수 없습니다."/>
-<Text Id="Focus_Info_Combat_Charm_3" DisplayName="어떤 적은 매혹()에 면역일 수 있습니다."/>
-<Text Id="Focus_Info_Combat_Charm_4" DisplayName="매혹()을 사용해 아군이 된 적을 다시 적으로 바꿀 수 있습니다."/>
-<Text Id="Focus_Info_Combat_Charm_5" DisplayName="매혹()을 다른 함수에 장착 시 원래의 효과가 가끔 나타납니다."/>
-<Text Id="Focus_Info_Combat_Charm_6" DisplayName="매혹()은 적들의 공격대상을 바꾸는 데 유용합니다."/>
-<Text Id="Focus_Info_Combat_Charm_7" DisplayName="매혹()을 패시브에 장착할 경우 셀을 주울 시 아군이 생성될 확률이 생깁니다."/>
+<Text Id="Focus_Info_Combat_Charm_1" DisplayName="switch()은 적에게 다른 적을 공격하게 할 수 있습니다."/>
+<Text Id="Focus_Info_Combat_Charm_2" DisplayName="switch()의 대상은 플레이어의 공격 대상이 될 수 없습니다."/>
+<Text Id="Focus_Info_Combat_Charm_3" DisplayName="어떤 적은 switch()에 면역일 수 있습니다."/>
+<Text Id="Focus_Info_Combat_Charm_4" DisplayName="switch()을 사용해 아군이 된 적을 다시 적으로 바꿀 수 있습니다."/>
+<Text Id="Focus_Info_Combat_Charm_5" DisplayName="switch()을 다른 함수에 장착 시 원래의 효과가 가끔 나타납니다."/>
+<Text Id="Focus_Info_Combat_Charm_6" DisplayName="switch()은 적들의 공격대상을 바꾸는 데 유용합니다."/>
+<Text Id="Focus_Info_Combat_Charm_7" DisplayName="switch()을 패시브에 장착할 경우 셀을 주울 시 아군이 생성될 확률이 생깁니다."/>
 
 <Text Id="Focus_Info_Combat_Summon_1" DisplayName="설계 중 {RB}을(를) 눌러 플레이어와 아군을 선택할 수 있습니다."/>
-<Text Id="Focus_Info_Combat_Summon_2" DisplayName="도움!() 으로 소환된 아군은 플레이어를 즉시 보호합니다."/>
-<Text Id="Focus_Info_Combat_Summon_3" DisplayName="소환된 아군은 턴() 도중 플레이어보다 더 멀리 움직일 수 있습니다."/>
+<Text Id="Focus_Info_Combat_Summon_2" DisplayName="help() 으로 소환된 아군은 플레이어를 즉시 보호합니다."/>
+<Text Id="Focus_Info_Combat_Summon_3" DisplayName="소환된 아군은 turn() 도중 플레이어보다 더 멀리 움직일 수 있습니다."/>
 <Text Id="Focus_Info_Combat_Summon_4" DisplayName="설계 중에는 플레이어를 선택한 후 {RB}을(를) 눌러 아군을 선택할 수 있습니다."/>
-<Text Id="Focus_Info_Combat_Summon_5" DisplayName="도움!()을 패시브에 장착할 경우 슈퍼유저가 될 확률이 생깁니다."/>
-<Text Id="Focus_Info_Combat_Summon_6" DisplayName="도움!()을 다른 함수에 장착 시 셀에서 적이 다시 자라나지 못하게 막습니다."/>
+<Text Id="Focus_Info_Combat_Summon_5" DisplayName="help()을 패시브에 장착할 경우 슈퍼유저가 될 확률이 생깁니다."/>
+<Text Id="Focus_Info_Combat_Summon_6" DisplayName="help()을 다른 함수에 장착 시 셀에서 적이 다시 자라나지 못하게 막습니다."/>
 
-<Text Id="Focus_Info_Combat_Bomb_1" DisplayName="채워넣기()로 생성된 덩어리들은 충돌 시 폭발합니다."/>
+<Text Id="Focus_Info_Combat_Bomb_1" DisplayName="load()로 생성된 덩어리들은 충돌 시 폭발합니다."/>
 <Text Id="Focus_Info_Combat_Bomb_2" DisplayName="덩어리들은 폭발 반경 안의 지형을 파괴합니다."/>
-<Text Id="Focus_Info_Combat_Bomb_3" DisplayName="채워넣기()로 생성된 덩어리들은 범위 안의 적에게 엄청난 피해를 줍니다."/>
-<Text Id="Focus_Info_Combat_Bomb_4" DisplayName="채워넣기()는 중첩하여 연쇄적인 폭발을 일으킬 수 있습니다."/>
-<Text Id="Focus_Info_Combat_Bomb_5" DisplayName="채워넣기()는 다른 함수에 범위 공격 효과를 부여할 수 있습니다."/>
+<Text Id="Focus_Info_Combat_Bomb_3" DisplayName="load()로 생성된 덩어리들은 범위 안의 적에게 엄청난 피해를 줍니다."/>
+<Text Id="Focus_Info_Combat_Bomb_4" DisplayName="load()는 중첩하여 연쇄적인 폭발을 일으킬 수 있습니다."/>
+<Text Id="Focus_Info_Combat_Bomb_5" DisplayName="load()는 다른 함수에 범위 공격 효과를 부여할 수 있습니다."/>
 <Text Id="Focus_Info_Combat_Bomb_6" DisplayName="플레이어는 적을 유인하여 효과적인 공격을 할 수 있습니다."/>
-<Text Id="Focus_Info_Combat_Bomb_7" DisplayName="채워넣기()를 패시브에 장착할 경우 덩어리를 자동으로 생성합니다."/>
+<Text Id="Focus_Info_Combat_Bomb_7" DisplayName="load()를 패시브에 장착할 경우 덩어리를 자동으로 생성합니다."/>
 
-<Text Id="Focus_Info_Combat_Sidearm_1" DisplayName="정밀사격()은 배후 공격 시 효과적입니다."/>
-<Text Id="Focus_Info_Combat_Sidearm_2" DisplayName="정밀사격()은 약해진 적을 끝내는 데 효과적입니다."/>
-<Text Id="Focus_Info_Combat_Sidearm_3" DisplayName="정밀사격()은 다른 함수를 더 효과적이게 강화할 수 있습니다."/>
-<Text Id="Focus_Info_Combat_Sidearm_4" DisplayName="정밀사격()은 턴() 밖에서도 빠른 속도로 사용할 수 있습니다."/>
-<Text Id="Focus_Info_Combat_Sidearm_5" DisplayName="정밀사격()은 지형을 넘어 공격할 수 없습니다."/>
-<Text Id="Focus_Info_Combat_Sidearm_6" DisplayName="정밀사격()을 패시브에 장착할 경우 턴() 안에 더 많이 이동할 수 있습니다."/>
+<Text Id="Focus_Info_Combat_Sidearm_1" DisplayName="ping()은 배후 공격 시 효과적입니다."/>
+<Text Id="Focus_Info_Combat_Sidearm_2" DisplayName="ping()은 약해진 적을 끝내는 데 효과적입니다."/>
+<Text Id="Focus_Info_Combat_Sidearm_3" DisplayName="ping()은 다른 함수를 더 효과적이게 강화할 수 있습니다."/>
+<Text Id="Focus_Info_Combat_Sidearm_4" DisplayName="ping()은 turn() 밖에서도 빠른 속도로 사용할 수 있습니다."/>
+<Text Id="Focus_Info_Combat_Sidearm_5" DisplayName="ping()은 지형을 넘어 공격할 수 없습니다."/>
+<Text Id="Focus_Info_Combat_Sidearm_6" DisplayName="ping()을 패시브에 장착할 경우 turn() 안에 더 많이 이동할 수 있습니다."/>
 
-<Text Id="Focus_Info_Combat_Hook_1" DisplayName="끌어모으기()는 적이 멀리 있을수록 큰 피해를 줍니다."/>
-<Text Id="Focus_Info_Combat_Hook_2" DisplayName="끌어모으기()는 가까운 적에게 효율적이지 않습니다."/>
-<Text Id="Focus_Info_Combat_Hook_3" DisplayName="끌어모으기()로 셀을 끌어모을 수 있습니다."/>
-<Text Id="Focus_Info_Combat_Hook_4" DisplayName="끌어모으기()는 다른 함수에 끌어모으는 기능을 추가할 수 있습니다."/>
-<Text Id="Focus_Info_Combat_Hook_5" DisplayName="끌어모으기()는 범위 밖의 적들을 공격 반경 내로 끌어올 수 있습니다."/>
+<Text Id="Focus_Info_Combat_Hook_1" DisplayName="get()는 적이 멀리 있을수록 큰 피해를 줍니다."/>
+<Text Id="Focus_Info_Combat_Hook_2" DisplayName="get()는 가까운 적에게 효율적이지 않습니다."/>
+<Text Id="Focus_Info_Combat_Hook_3" DisplayName="get()로 셀을 끌어모을 수 있습니다."/>
+<Text Id="Focus_Info_Combat_Hook_4" DisplayName="get()는 다른 함수에 끌어모으는 기능을 추가할 수 있습니다."/>
+<Text Id="Focus_Info_Combat_Hook_5" DisplayName="get()는 범위 밖의 적들을 공격 반경 내로 끌어올 수 있습니다."/>
 <Text Id="Focus_Info_Combat_Hook_6" DisplayName="끌어보으기()를 패시브에 장착할 경우 반경 내의 셀을 끌어모읍니다."/>
 
-<Text Id="Focus_Info_Combat_Hide_1" DisplayName="은신술()는 플레이어를 은신시키고 무적 상태로 만듭니다."/>
-<Text Id="Focus_Info_Combat_Hide_2" DisplayName="은신술()는 사용 후 플레이어의 다음 공격을 강화시킵니다."/>
-<Text Id="Focus_Info_Combat_Hide_3" DisplayName="은신술()를 사용할 경우 얼마간의 재사용 대기 시간을 갖습니다."/>
-<Text Id="Focus_Info_Combat_Hide_4" DisplayName="은신술()는 다른 함수의 배후 공격 피해를 증가시킬 수 있습니다."/>
-<Text Id="Focus_Info_Combat_Hide_5" DisplayName="은신술()는 턴() 복구 중에도 사용할 수 있습니다."/>
-<Text Id="Focus_Info_Combat_Hide_6" DisplayName="은신술()를 패시브에 장착할 경우 적을 죽인 후 은신 상태가 됩니다."/>
+<Text Id="Focus_Info_Combat_Hide_1" DisplayName="mask()는 플레이어를 은신시키고 무적 상태로 만듭니다."/>
+<Text Id="Focus_Info_Combat_Hide_2" DisplayName="mask()는 사용 후 플레이어의 다음 공격을 강화시킵니다."/>
+<Text Id="Focus_Info_Combat_Hide_3" DisplayName="mask()를 사용할 경우 얼마간의 재사용 대기 시간을 갖습니다."/>
+<Text Id="Focus_Info_Combat_Hide_4" DisplayName="mask()는 다른 함수의 배후 공격 피해를 증가시킬 수 있습니다."/>
+<Text Id="Focus_Info_Combat_Hide_5" DisplayName="mask()는 turn() 복구 중에도 사용할 수 있습니다."/>
+<Text Id="Focus_Info_Combat_Hide_6" DisplayName="mask()를 패시브에 장착할 경우 적을 죽인 후 은신 상태가 됩니다."/>
 
-<Text Id="Focus_Info_Combat_Jumper_1" DisplayName="튕기기()는 범위 내에 있는 여섯 마리의 적을 차례대로 공격합니다."/>
-<Text Id="Focus_Info_Combat_Jumper_2" DisplayName="튕기기()의 투사체는 빠르지만 턴() 복구 시간이 비교적 오래걸립니다."/>
-<Text Id="Focus_Info_Combat_Jumper_3" DisplayName="튕기기()는 적에게 피해를 줄수록 피해량이 줄어듭니다."/>
-<Text Id="Focus_Info_Combat_Jumper_4" DisplayName="튕기기()는 다른 함수가 다수의 적을 공격할 수 있게 해줄 수 있습니다."/>
-<Text Id="Focus_Info_Combat_Jumper_5" DisplayName="튕기기()는 밀집한 적들을 상대로 효과적입니다."/>
-<Text Id="Focus_Info_Combat_Jumper_6" DisplayName="튕기기()를 패시브에 장착할 경우 빗나가게 하는 방어막을 얻습니다."/>
+<Text Id="Focus_Info_Combat_Jumper_1" DisplayName="bounce()는 범위 내에 있는 여섯 마리의 적을 차례대로 공격합니다."/>
+<Text Id="Focus_Info_Combat_Jumper_2" DisplayName="bounce()의 투사체는 빠르지만 turn() 복구 시간이 비교적 오래걸립니다."/>
+<Text Id="Focus_Info_Combat_Jumper_3" DisplayName="bounce()는 적에게 피해를 줄수록 피해량이 줄어듭니다."/>
+<Text Id="Focus_Info_Combat_Jumper_4" DisplayName="bounce()는 다른 함수가 다수의 적을 공격할 수 있게 해줄 수 있습니다."/>
+<Text Id="Focus_Info_Combat_Jumper_5" DisplayName="bounce()는 밀집한 적들을 상대로 효과적입니다."/>
+<Text Id="Focus_Info_Combat_Jumper_6" DisplayName="bounce()를 패시브에 장착할 경우 빗나가게 하는 방어막을 얻습니다."/>
 
-<Text Id="Focus_Info_Combat_Tracker_1" DisplayName="기생충 주입()은 적을 둔화시키고 도트 피해를 줍니다."/>
-<Text Id="Focus_Info_Combat_Tracker_2" DisplayName="기생충 주입()을 이미 당한 적에게 사용할 경우 도트 타이머를 리셋시킵니다."/>
-<Text Id="Focus_Info_Combat_Tracker_3" DisplayName="기생충 주입()은 주변의 적에 침투할 기생충을 생성합니다."/>
-<Text Id="Focus_Info_Combat_Tracker_4" DisplayName="기생충 주입()은 다른 함수에 적을 약화시키는 성질을 부여할 수 있습니다."/>
-<Text Id="Focus_Info_Combat_Tracker_5" DisplayName="기생충 주입()은 약해진 적을 상대로 효과적입니다."/>
-<Text Id="Focus_Info_Combat_Tracker_6" DisplayName="기생충 주입()을 패시브에 장착할 경우 피격 시 자동으로 효과가 발동됩니다."/>
-<Text Id="Focus_Info_Combat_Tracker_7" DisplayName="기생충 주입()은 지형을 무시하고 발동할 수 있습니다."/>
+<Text Id="Focus_Info_Combat_Tracker_1" DisplayName="purge()은 적을 둔화시키고 도트 피해를 줍니다."/>
+<Text Id="Focus_Info_Combat_Tracker_2" DisplayName="purge()을 이미 당한 적에게 사용할 경우 도트 타이머를 리셋시킵니다."/>
+<Text Id="Focus_Info_Combat_Tracker_3" DisplayName="purge()은 주변의 적에 침투할 기생충을 생성합니다."/>
+<Text Id="Focus_Info_Combat_Tracker_4" DisplayName="purge()은 다른 함수에 적을 약화시키는 성질을 부여할 수 있습니다."/>
+<Text Id="Focus_Info_Combat_Tracker_5" DisplayName="purge()은 약해진 적을 상대로 효과적입니다."/>
+<Text Id="Focus_Info_Combat_Tracker_6" DisplayName="purge()을 패시브에 장착할 경우 피격 시 자동으로 효과가 발동됩니다."/>
+<Text Id="Focus_Info_Combat_Tracker_7" DisplayName="purge()은 지형을 무시하고 발동할 수 있습니다."/>
 
-<Text Id="Focus_Info_Combat_Heal_1" DisplayName="에너지 흡수()는 플레이어 주변의 적들로부터 생명을 흡수합니다."/>
-<Text Id="Focus_Info_Combat_Heal_2" DisplayName="에너지 흡수()는 범위 내의 모든 적에게 적용됩니다."/>
-<Text Id="Focus_Info_Combat_Heal_3" DisplayName="특정 함수는 에너지 흡수()의 피해와 생명력 흡수 효과를 증가시킵니다."/>
-<Text Id="Focus_Info_Combat_Heal_4" DisplayName="에너지 흡수()는 다른 함수에 생명력 흡수 효과를 부여할 수 있습니다."/>
-<Text Id="Focus_Info_Combat_Heal_5" DisplayName="다수의 적 근처에서 에너지 흡수()를 사용하면 효과적입니다."/>
-<Text Id="Focus_Info_Combat_Heal_6" DisplayName="에너지 흡수()를 패시브에 장착할 경우 플레이어의 최대 목숨이 증가합니다."/>
+<Text Id="Focus_Info_Combat_Heal_1" DisplayName="tap()는 플레이어 주변의 적들로부터 생명을 흡수합니다."/>
+<Text Id="Focus_Info_Combat_Heal_2" DisplayName="tap()는 범위 내의 모든 적에게 적용됩니다."/>
+<Text Id="Focus_Info_Combat_Heal_3" DisplayName="특정 함수는 tap()의 피해와 생명력 흡수 효과를 증가시킵니다."/>
+<Text Id="Focus_Info_Combat_Heal_4" DisplayName="tap()는 다른 함수에 생명력 흡수 효과를 부여할 수 있습니다."/>
+<Text Id="Focus_Info_Combat_Heal_5" DisplayName="다수의 적 근처에서 tap()를 사용하면 효과적입니다."/>
+<Text Id="Focus_Info_Combat_Heal_6" DisplayName="tap()를 패시브에 장착할 경우 플레이어의 최대 목숨이 증가합니다."/>
 
-<Text Id="Focus_Info_Combat_Might_1" DisplayName="공허()는 적을 공수양면으로 약화시킵니다."/>
-<Text Id="Focus_Info_Combat_Might_2" DisplayName="공허()의 효과는 하나의 적에게 최대 세 번까지 중첩됩니다."/>
-<Text Id="Focus_Info_Combat_Might_3" DisplayName="공허()는 강력한 적들을 쉽게 무찌를 수 있게 해줍니다."/>
-<Text Id="Focus_Info_Combat_Might_4" DisplayName="공허()는 범위 내 다수의 적에게 효과가 있습니다."/>
-<Text Id="Focus_Info_Combat_Might_5" DisplayName="공허()는 다른 함수의 피해량을 증가시킬 수 있습니다."/>
-<Text Id="Focus_Info_Combat_Might_6" DisplayName="공허()의 지속 시간은 최대 4.3초입니다."/>
-<Text Id="Focus_Info_Combat_Might_7" DisplayName="공허()를 패시브에 장착할 경우 모든 함수의 효과를 증가시킵니다."/>
+<Text Id="Focus_Info_Combat_Might_1" DisplayName="void()는 적을 공수양면으로 약화시킵니다."/>
+<Text Id="Focus_Info_Combat_Might_2" DisplayName="void()의 효과는 하나의 적에게 최대 세 번까지 중첩됩니다."/>
+<Text Id="Focus_Info_Combat_Might_3" DisplayName="void()는 강력한 적들을 쉽게 무찌를 수 있게 해줍니다."/>
+<Text Id="Focus_Info_Combat_Might_4" DisplayName="void()는 범위 내 다수의 적에게 효과가 있습니다."/>
+<Text Id="Focus_Info_Combat_Might_5" DisplayName="void()는 다른 함수의 피해량을 증가시킬 수 있습니다."/>
+<Text Id="Focus_Info_Combat_Might_6" DisplayName="void()의 지속 시간은 최대 4.3초입니다."/>
+<Text Id="Focus_Info_Combat_Might_7" DisplayName="void()를 패시브에 장착할 경우 모든 함수의 효과를 증가시킵니다."/>
 
-<Text Id="Focus_Info_Combat_Uppercut_1" DisplayName="도태시키기()는 적 대부분을 한 턴()에 두 번 이상 공격할 수 없습니다."/>
-<Text Id="Focus_Info_Combat_Uppercut_2" DisplayName="도태시키기()는 반경 내 특정 영역의 적에게 더 효과적이게 공격합니다."/>
-<Text Id="Focus_Info_Combat_Uppercut_3" DisplayName="도태시키기()는 적 대부분을 공중에 띄워 짧은 시간 동안 무력화시킵니다."/>
-<Text Id="Focus_Info_Combat_Uppercut_4" DisplayName="도태시키기()는 다른 함수들의 위력을 증폭시킬 수 있습니다."/>
-<Text Id="Focus_Info_Combat_Uppercut_5" DisplayName="도태시키기()는 적을 배후 공격 시에 더욱 효과적입니다."/>
-<Text Id="Focus_Info_Combat_Uppercut_6" DisplayName="도태시키기()를 패시브에 장착할 경우 턴() 안에 닿은 적에게 피해를 줍니다."/>
+<Text Id="Focus_Info_Combat_Uppercut_1" DisplayName="cull()는 적 대부분을 한 turn()에 두 번 이상 공격할 수 없습니다."/>
+<Text Id="Focus_Info_Combat_Uppercut_2" DisplayName="cull()는 반경 내 특정 영역의 적에게 더 효과적이게 공격합니다."/>
+<Text Id="Focus_Info_Combat_Uppercut_3" DisplayName="cull()는 적 대부분을 공중에 띄워 짧은 시간 동안 무력화시킵니다."/>
+<Text Id="Focus_Info_Combat_Uppercut_4" DisplayName="cull()는 다른 함수들의 위력을 증폭시킬 수 있습니다."/>
+<Text Id="Focus_Info_Combat_Uppercut_5" DisplayName="cull()는 적을 배후 공격 시에 더욱 효과적입니다."/>
+<Text Id="Focus_Info_Combat_Uppercut_6" DisplayName="cull()를 패시브에 장착할 경우 turn() 안에 닿은 적에게 피해를 줍니다."/>
 
-<Text Id="Focus_Info_Combat_Orb_1" DisplayName="에너지 쇄도()는 느리거나 정지 상태의 적에게 더 효과적입니다."/>
-<Text Id="Focus_Info_Combat_Orb_2" DisplayName="에너지 쇄도()는 상대를 무력화시키는 함수와 함께 사용하면 효과적입니다."/>
-<Text Id="Focus_Info_Combat_Orb_3" DisplayName="에너지 쇄도()는 지형을 훼손하지 않고 통과하여 공격합니다."/>
-<Text Id="Focus_Info_Combat_Orb_4" DisplayName="에너지 쇄도()가 다른 함수를 강화할 경우 적에게 추가적인 후유증을 부여합니다."/>
-<Text Id="Focus_Info_Combat_Orb_5" DisplayName="에너지 쇄도()는 빠르게 움직이는 적에게 덜 효과적입니다."/>
-<Text Id="Focus_Info_Combat_Orb_6" DisplayName="에너지 쇄도()를 패시브에 장착할 경우 턴() 복구 종료 후 목숨을 회복합니다."/>
+<Text Id="Focus_Info_Combat_Orb_1" DisplayName="flood()는 느리거나 정지 상태의 적에게 더 효과적입니다."/>
+<Text Id="Focus_Info_Combat_Orb_2" DisplayName="flood()는 상대를 무력화시키는 함수와 함께 사용하면 효과적입니다."/>
+<Text Id="Focus_Info_Combat_Orb_3" DisplayName="flood()는 지형을 훼손하지 않고 통과하여 공격합니다."/>
+<Text Id="Focus_Info_Combat_Orb_4" DisplayName="flood()가 다른 함수를 강화할 경우 적에게 추가적인 후유증을 부여합니다."/>
+<Text Id="Focus_Info_Combat_Orb_5" DisplayName="flood()는 빠르게 움직이는 적에게 덜 효과적입니다."/>
+<Text Id="Focus_Info_Combat_Orb_6" DisplayName="flood()를 패시브에 장착할 경우 turn() 복구 종료 후 목숨을 회복합니다."/>
 
 <Text Id="Focus_Info_Combat_Berserker_1" DisplayName="시빌이 정신적 고통에 휩싸인 듯해."/>
 <Text Id="Focus_Info_Combat_Berserker_2" DisplayName="시빌의 공격은 지형 대부분을 파괴해."/>
@@ -178,7 +178,7 @@
 
 <Text Id="Focus_Info_Combat_Royce_1" DisplayName="조건 읽는 중: 변수 과부하."/>
 <Text Id="Focus_Info_Combat_Royce_2" DisplayName="조건 읽는 중: 사용자들이 많음."/>
-<Text Id="Focus_Info_Combat_Royce_3" DisplayName="조건 읽는 중: 턴() 이 자동으로 발동되지 않을 것임."/>
+<Text Id="Focus_Info_Combat_Royce_3" DisplayName="조건 읽는 중: turn() 이 자동으로 발동되지 않을 것임."/>
 <Text Id="Focus_Info_Combat_Royce_4" DisplayName="조건 읽는 중: 시스템 설정 복제."/>
 <Text Id="Focus_Info_Combat_Royce_5" DisplayName="조건 읽는 중: 손상되거나 복구 불가한 데이터를 검색."/>
 <Text Id="Focus_Info_Combat_Royce_6" DisplayName="조건 읽는 중: 알려지지 않은 변수가 초기화됨."/>
@@ -224,8 +224,8 @@
 <Text Id="Focus_Info_Combat_Lobber_Any_2" DisplayName="클러커는 가까이 있는 적을 공격할 수 없습니다."/>
 <Text Id="Focus_Info_Combat_Lobber_Any_3" DisplayName="클러커는 이동 시 점점 빨라집니다."/>
 <Text Id="Focus_Info_Combat_Lobber_Level2_1" DisplayName="클러커 2.0은 이동 시 플레이어를 둔화시키는 흔적을 남깁니다."/>
-<Text Id="Focus_Info_Combat_Lobber_Level3_1" DisplayName="클러커 3.0은 턴()을 억제하는 방해 전파를 분출합니다."/>
-<Text Id="Focus_Info_Combat_Lobber_Level3_2" DisplayName="방해 전파와 부딪힐 경우 턴() 이 종료됩니다."/>
+<Text Id="Focus_Info_Combat_Lobber_Level3_1" DisplayName="클러커 3.0은 turn()을 억제하는 방해 전파를 분출합니다."/>
+<Text Id="Focus_Info_Combat_Lobber_Level3_2" DisplayName="방해 전파와 부딪힐 경우 turn() 이 종료됩니다."/>
 
 <Text Id="Focus_Info_Combat_Shielder_Any_1" DisplayName="치어리더는 대상을 보호 상태로 만듭니다."/>
 <Text Id="Focus_Info_Combat_Shielder_Any_2" DisplayName="치어리더는 플레이어를 공격하지 않습니다."/>
@@ -238,7 +238,7 @@
 <Text Id="Focus_Info_Combat_Zoner_Any_3" DisplayName="스냅샷은 플레이어의 시야를 가리는 플래시를 터뜨립니다."/>
 <Text Id="Focus_Info_Combat_Zoner_Any_4" DisplayName="스냅샷은 플레이어의 위치가 아닌 이동 경로를 예측한 공격을 합니다."/>
 <Text Id="Focus_Info_Combat_Zoner_Level2_1" DisplayName="스냅샷 2.0은 더 많은 사진을 찍을 수 있습니다."/>
-<Text Id="Focus_Info_Combat_Zoner_Level3_1" DisplayName="스냅샷 3.0은 '불확정성 발전기'로 턴() 도중 숨어버립니다."/>
+<Text Id="Focus_Info_Combat_Zoner_Level3_1" DisplayName="스냅샷 3.0은 '불확정성 발전기'로 turn() 도중 숨어버립니다."/>
 
 <Text Id="Focus_Info_Combat_Flusher_Any_1" DisplayName="페치는 소환된 아군이 아닙니다."/>
 <Text Id="Focus_Info_Combat_Flusher_Any_2" DisplayName="페치는 플레이어의 현재 위치를 노려 암살을 시도합니다."/>
@@ -246,7 +246,7 @@
 <Text Id="Focus_Info_Combat_Flusher_Level2_1" DisplayName="페치 2.0은 간헐적으로 은신 상태가 됩니다."/>
 <Text Id="Focus_Info_Combat_Flusher_Level2_2" DisplayName="페치 2.0가 은신 상태일 때는 피해를 입지 않습니다."/>
 <Text Id="Focus_Info_Combat_Flusher_Level3_1" DisplayName="페치 3.0이 플레이어를 공격할 경우 스턴 상태가 됩니다."/>
-<Text Id="Focus_Info_Combat_Flusher_Level3_2" DisplayName="페치 3.0이 스턴 공격을 했을 경우, 턴()을 통해 공격할 수 있습니다."/>
+<Text Id="Focus_Info_Combat_Flusher_Level3_2" DisplayName="페치 3.0이 스턴 공격을 했을 경우, turn()을 통해 공격할 수 있습니다."/>
 
 <Text Id="Focus_Info_Combat_Haunter_Cloaker_1" DisplayName="가까운 Men과 상태를 공유하면 보너스를 받을 수 있습니다."/>
 <Text Id="Focus_Info_Combat_Haunter_Cloaker_2" DisplayName="공유한 상태: 민첩함은 다음 행동 전까지 은신상태로 만듭니다."/>
@@ -254,16 +254,16 @@
 <Text Id="Focus_Info_Combat_Haunter_Mover_1" DisplayName="공유한 상태: 신속함은 이동과 공격을 더 빠르게 합니다."/>
 <Text Id="Focus_Info_Combat_Haunter_Shooter_1" DisplayName="공유한 상태: 능숙함은 공격 범위를 증가시킵니다."/>
 <Text Id="Focus_Info_Combat_Haunt_Any_1" DisplayName="헤어컷은 피격당하거나 파괴될 수 있습니다."/>
-<Text Id="Focus_Info_Combat_Haunt_Any_2" DisplayName="헤어컷은 매혹()와 같이 작동 상태를 변경할 수 있습니다."/>
+<Text Id="Focus_Info_Combat_Haunt_Any_2" DisplayName="헤어컷은 switch()와 같이 작동 상태를 변경할 수 있습니다."/>
 
 <Text Id="Focus_Info_Combat_Misc_1" DisplayName="셀은 빨리 줍지 않을 경우 유닛이 재생성됩니다."/>
 <Text Id="Focus_Info_Combat_Misc_2" DisplayName="{U}을(를) 눌러 계획을 취소할 수 있습니다."/>
 <Text Id="Focus_Info_Combat_Misc_3" DisplayName="{A1}을(를) 눌러 목표를 조절하세요."/>
-<Text Id="Focus_Info_Combat_Misc_5" DisplayName="턴() 사용 후엔 숨는 것이 좋습니다."/>
+<Text Id="Focus_Info_Combat_Misc_5" DisplayName="turn() 사용 후엔 숨는 것이 좋습니다."/>
 <Text Id="Focus_Info_Combat_Misc_4" DisplayName="적 대부분은 배후 공격 시 더 효과적입니다."/>
-<Text Id="Focus_Info_Combat_Misc_6" DisplayName="턴() 실행 중 {U}을(를) 누르면 행동을 취소할 수 있습니다."/>
+<Text Id="Focus_Info_Combat_Misc_6" DisplayName="turn() 실행 중 {U}을(를) 누르면 행동을 취소할 수 있습니다."/>
 <Text Id="Focus_Info_Combat_Misc_7" DisplayName="이 메시지는 다시 재생되지 않습니다."/>
-<Text Id="Focus_Info_Combat_Misc_8" DisplayName="이 메시지는 턴() 창 안에서 끌 수 있습니다."/>
+<Text Id="Focus_Info_Combat_Misc_8" DisplayName="이 메시지는 turn() 창 안에서 끌 수 있습니다."/>
 <Text Id="Focus_Info_Combat_Misc_9" DisplayName="플레이어 레벨은 '프로세스'를 처치하여 높일 수 있습니다."/>
 
 <Text Id="Focus_Info_NonCombat_1" DisplayName="목숨을 회복하고 싶다면, 액세스 포인트를 찾으면 됩니다."/>
@@ -322,7 +322,7 @@
 <Text Id="DamageEstimate_Blocked" DisplayName="방어함"/>
 <Text Id="DamageEstimate_Stealthed" DisplayName="은신 발동"/>
 <Text Id="DamageEstimate_Friendly" DisplayName="아군을 공격할 수 없음"/>
-<Text Id="BombExplode" DisplayName="채워넣기()"/>
+<Text Id="BombExplode" DisplayName="load()"/>
 
 <!-- Effects -->
 <Text Id="StatusEffect_Prefix" DisplayName="-- "/>
@@ -392,16 +392,16 @@
 
 <Text Id="LifeLost_LoadGameWithLimiters" InheritFrom="LifeLost_LoadGameWithoutLimiters"/>
 <Text Id="LifeLost_LoadGamePlusLimiters" DisplayName="리미터를 켜고"/>
-<!-- Slam a.k.a. 내려찍기() -->
+<!-- Slam a.k.a. crash() -->
 
-<Text Id="Slam_Generic" DisplayName="내려찍기()"
+<Text Id="Slam_Generic" DisplayName="crash()"
 Description="붕괴시키는, 믿을만한"/>
 
-<Text Id="Slam" DisplayName="내려찍기()"
+<Text Id="Slam" DisplayName="crash()"
 Description="주변의 적들을 내리쳐 피해를 줍니다. 공격 후 적들에게 약점을 노출합니다."
-AdditionalDescription="> 기본 피해: \Column 240 \Format TextStat 50 \n > 스턴 지속시간: \Column 240 \Format TextStat 2.1초 \n > 턴() 준비 비용: \Column 240 \Format TextStat 20"/>
+AdditionalDescription="> 기본 피해: \Column 240 \Format TextStat 50 \n > 스턴 지속시간: \Column 240 \Format TextStat 2.1초 \n > turn() 준비 비용: \Column 240 \Format TextStat 20"/>
 
-<Text Id="Slam_Generic_Upgrade" DisplayName="내려찍기()"
+<Text Id="Slam_Generic_Upgrade" DisplayName="crash()"
 Description="함수 대부분에 적을 스턴 혹은 넉백시키는 효과를 부여합니다."/>
 
 <Text Id="Slam_Passive" InheritFrom="Slam"
@@ -441,21 +441,21 @@ Description="{0}은(는) 두 배의 시간 동안 적을 기절시키고 취약�
 AdditionalDescription="> 스턴 지속시간: \Column 240 \Format TextStat 4.2 Sec /n > 적 취약함: \Column 240 \Format TextStat 4.2초"/>
 
 
-<!-- Snipe a.k.a. 붕괴시키기() -->
+<!-- Snipe a.k.a. breach() -->
 
-<Text Id="Snipe_Generic" DisplayName="붕괴시키기()"
+<Text Id="Snipe_Generic" DisplayName="breach()"
 Description="대규모의, 꿰뚫는"/>
 
-<Text Id="Snipe" DisplayName="붕괴시키기()"
+<Text Id="Snipe" DisplayName="breach()"
 Description="엄청난 힘으로 긴 범위의 적들을 관통하는 공격을 합니다."
-AdditionalDescription="> 기본 피해: \Column 240 \Format TextStat 100 \n > 범위: \Column 240 \Format TextStat 800 \n > 턴() 준비 비용: \Column 240 \Format TextStat 42"/>
+AdditionalDescription="> 기본 피해: \Column 240 \Format TextStat 100 \n > 범위: \Column 240 \Format TextStat 800 \n > turn() 준비 비용: \Column 240 \Format TextStat 42"/>
 
-<Text Id="Snipe_Generic_Upgrade" DisplayName="붕괴시키기()"
+<Text Id="Snipe_Generic_Upgrade" DisplayName="breach()"
 Description="함수 대부분이 빠르게 발동하며, 범위와 속도를 증가시킵니다."/>
 
 <Text Id="Snipe_Passive" InheritFrom="Snipe"
-Description="턴()동안 더 많은 준비 잠재력을 얻을 수 있습니다."
-AdditionalDescription="> 턴() 준비: \Column 240 \Format TextStat 120%"/>
+Description="turn()동안 더 많은 준비 잠재력을 얻을 수 있습니다."
+AdditionalDescription="> turn() 준비: \Column 240 \Format TextStat 120%"/>
 
 <Text Id="Snipe_Upgrade" InheritFrom="Snipe"
 Description="{0}은(는) 더 멀리, 더 빠르게 발사합니다."
@@ -510,18 +510,18 @@ Description="{0}은(는) 관통 불가능한 표면에서 튀어나오게 합니
 AdditionalDescription="> 벽면 공격 시 튀어나옴"/>
 
 
-<!-- Clusterbomb a.k.a. 전격 클러스터() -->
+<!-- Clusterbomb a.k.a. spark() -->
 
-<Text Id="Clusterbomb_Generic" DisplayName="전격 클러스터()"
+<Text Id="Clusterbomb_Generic" DisplayName="spark()"
 Description="혼잡스러운, 분열하는"/>
 
-<Text Id="Clusterbomb" DisplayName="전격 클러스터()"
+<Text Id="Clusterbomb" DisplayName="spark()"
 Description="적에게 부딪힌 후 흩어지는 폭발물을 생성하는 불안정한 폭탄을 빠르게 발사합니다."
-AdditionalDescription="> 기본 피해: \Column 240 \Format TextStat 60 \n > 폭발 반경: \Column 240 \Format TextStat 325 \n > 턴() 준비 비용: \Column 240 \Format TextStat 20"/>
+AdditionalDescription="> 기본 피해: \Column 240 \Format TextStat 60 \n > 폭발 반경: \Column 240 \Format TextStat 325 \n > turn() 준비 비용: \Column 240 \Format TextStat 20"/>
 
 <Text Id="ClusterbombGP" InheritFrom="Clusterbomb"/>
 
-<Text Id="Clusterbomb_Generic_Upgrade" DisplayName="전격 클러스터()"
+<Text Id="Clusterbomb_Generic_Upgrade" DisplayName="spark()"
 Description="함수 대부분에 분열되는 성질을 부여하며 피해량이 늘어납니다."/>
 
 <Text Id="Clusterbomb_Passive" InheritFrom="Clusterbomb"
@@ -549,8 +549,8 @@ Description="{0} 근거리에서 더 큰 피해를 주는 다수의 발사물을
 AdditionalDescription="> 발사물: \Column 240 \Format TextStat 3 \n > 피해 감소: \Column 240 \Format TextStat 50%"/>
 
 <Text Id="Clusterbomb_Blink_Upgrade" InheritFrom="Clusterbomb"
-Description="{0} 사용자의 경로를 따라 전격 클러스터()를 쏟아냅니다 ."
-AdditionalDescription="> 전격 클러스터() Damage: \Column 240 \Format TextStat 40"/>
+Description="{0} 사용자의 경로를 따라 spark()를 쏟아냅니다 ."
+AdditionalDescription="> spark() Damage: \Column 240 \Format TextStat 40"/>
 
 <Text Id="Clusterbomb_Might_Upgrade" InheritFrom="Clusterbomb"
 Description="{0} 자동으로 그 효과를 다중적으로 중첩시킵니다."
@@ -561,15 +561,15 @@ Description="{0} 효과의 다수 폭발을 발사합니다."
 AdditionalDescription="> 피해 상황 개수: \Column 240 \Format TextStat 3 \n > 상황당 피해: \Column 240 \Format TextStat 75"/>
 
 <Text Id="Clusterbomb_Hide_Upgrade" InheritFrom="Clusterbomb"
-Description="{0} 효과가 끝날 때 자동으로 충전된 전격 클러스터()를 발사합니다."
-AdditionalDescription="> 전격 클러스터() 피해: \Column 240 \Format TextStat 115"/>
+Description="{0} 효과가 끝날 때 자동으로 충전된 spark()를 발사합니다."
+AdditionalDescription="> spark() 피해: \Column 240 \Format TextStat 115"/>
 
 <Text Id="ClusterbombGP_Hide_Upgrade" InheritFrom="Clusterbomb"
-Description="{0} 효과가 끝날 때 자동으로 충전된 전격 클러스터()를 발사합니다."
-AdditionalDescription="> 전격 클러스터() 피해: \Column 240 \Format TextStat 115"/>
+Description="{0} 효과가 끝날 때 자동으로 충전된 spark()를 발사합니다."
+AdditionalDescription="> spark() 피해: \Column 240 \Format TextStat 115"/>
 
 <Text Id="Clusterbomb_Jumper_Upgrade" InheritFrom="Clusterbomb"
-Description="{0} 무작위로 튀는 전격 클러스터() 조각을 생성해 타겟에게 피해를 줍니다."
+Description="{0} 무작위로 튀는 spark() 조각을 생성해 타겟에게 피해를 줍니다."
 AdditionalDescription="> 맞는 조각당 대미지: \Column 240 \Format TextStat 3 \n > 조각당 점프 횟수: \Column 240 \Format TextStat 2 \n > 조각당 대미지: \Column 240 \Format TextStat 5"/>
 
 <Text Id="ClusterbombGP_Hook_Upgrade" InheritFrom="Clusterbomb"
@@ -589,77 +589,77 @@ Description="{0} 두 개의 작은 기생충을 전방의 다수의 대상에게
 AdditionalDescription="> 기생충() 주입: \Column 240 \Format TextStat 2 \n > 기생충() 주입 대미지: \Column 240 \Format TextStat 1.5초 안에서 60 \n > 적 느려짐: \Column 240 \Format TextStat 70%"/>
 
 <Text Id="Clusterbomb_Clusterbomb_Upgrade" InheritFrom="Clusterbomb"
-Description="{0} 전격 클러스터()가 더 많은 전격 클러스터()로 폭발하게 합니다 ."
+Description="{0} spark()가 더 많은 spark()로 폭발하게 합니다 ."
 AdditionalDescription="> 3차적 폭발 피해: \Column 240 \Format TextStat 40"/>
 
 
-<!-- Blink a.k.a. 순보() -->
+<!-- Blink a.k.a. jaunt() -->
 
-<Text Id="Blink_Generic" DisplayName="순보()"
+<Text Id="Blink_Generic" DisplayName="jaunt()"
 Description="포착하기 어려운, 즉발적인"/>
 
-<Text Id="Blink" DisplayName="순보()"
+<Text Id="Blink" DisplayName="jaunt()"
 Description="플레이어를 근처에 있는 지정된 지점으로 즉시 이동시킵니다."
-AdditionalDescription="> 회복 시간: \Column 240 \Format TextStat 0.75초 \n > 턴() 준비 비용: \Column 240 \Format TextStat 10 \n > Usable In 턴() Recovery"/>
+AdditionalDescription="> 회복 시간: \Column 240 \Format TextStat 0.75초 \n > turn() 준비 비용: \Column 240 \Format TextStat 10 \n > Usable In turn() Recovery"/>
 
-<Text Id="Blink_Generic_Upgrade" DisplayName="순보()"
-Description="함수 대부분을 턴() 복구 중에도 사용할 수 있게 합니다."/>
+<Text Id="Blink_Generic_Upgrade" DisplayName="jaunt()"
+Description="함수 대부분을 turn() 복구 중에도 사용할 수 있게 합니다."/>
 
 <Text Id="Blink_Passive" InheritFrom="Blink"
-Description="턴()을 사용한 후 더 빠르게 회복합니다."
-AdditionalDescription="> 더 빠른 턴() 회복  \n > 쿨다운 속도: \Column 240 \Format TextStat 125%"/>
+Description="turn()을 사용한 후 더 빠르게 회복합니다."
+AdditionalDescription="> 더 빠른 turn() 회복  \n > 쿨다운 속도: \Column 240 \Format TextStat 125%"/>
 
 <Text Id="Blink_Upgrade" InheritFrom="Blink"
-Description="{0} 턴() 회복 동안 사용 가능합니다."
-AdditionalDescription="> 턴() 회복 동안 사용 가능"/>
+Description="{0} turn() 회복 동안 사용 가능합니다."
+AdditionalDescription="> turn() 회복 동안 사용 가능"/>
 
 <Text Id="Blink_Snipe_Upgrade" InheritFrom="Blink"
 Description="{0} 즉시 발사하고 ()턴 회복 동안 다시 사용 가능해집니다."
-AdditionalDescription="> 즉시 발사 \n > 턴() 회복 동안 다시 사용 가능"/>
+AdditionalDescription="> 즉시 발사 \n > turn() 회복 동안 다시 사용 가능"/>
 
 <Text Id="Blink_Utility_Upgrade" InheritFrom="Blink"
 Description="{0} 즉시 발사하고 쿨다운이 50% 더 빨라집니다."
 AdditionalDescription="> 즉시 발사 \n > 쿨다운 속도: \Column 240 \Format TextStat 150%"/>
 
 <Text Id="Blink_Bomb_Upgrade" InheritFrom="Blink"
-Description="{0} 자동으로 폭발하고 턴() 회복 동안 사용 가능합니다."
+Description="{0} 자동으로 폭발하고 turn() 회복 동안 사용 가능합니다."
 AdditionalDescription="> 자동 폭발 \n > ()턴 회복 동안 사용 가능 "/>
 
 <Text Id="Blink_Hide_Upgrade" InheritFrom="Blink"
-Description="{0} 플레이어의 속도를 높이고 턴() 회복 속도를 높입니다."
-AdditionalDescription="> 플레이어 속도: \Column 240 \Format TextStat 200% for 1 Sec \n > 빠른 턴()회복: \Column 240 \Format TextStat 130%"/>
+Description="{0} 플레이어의 속도를 높이고 turn() 회복 속도를 높입니다."
+AdditionalDescription="> 플레이어 속도: \Column 240 \Format TextStat 200% for 1 Sec \n > 빠른 turn()회복: \Column 240 \Format TextStat 130%"/>
 
 <Text Id="Blink_Slam_Upgrade" InheritFrom="Blink"
-Description="{0} 즉시 발사하고 턴() 회복 중에도 쓸 수 있게 됩니다."
-AdditionalDescription="> 즉시 발사 \n >턴() 회복도안 사용 가능"/>
+Description="{0} 즉시 발사하고 turn() 회복 중에도 쓸 수 있게 됩니다."
+AdditionalDescription="> 즉시 발사 \n >turn() 회복도안 사용 가능"/>
 
 <Text Id="Blink_Heal_Upgrade" InheritFrom="Blink"
-Description="{0}은(는) 더욱 빨리 발사되고 턴() 회복 중 쓸 수 있습니다."
-AdditionalDescription="> 즉시 발사 \n > 턴() 회복 중 사용 가능"/>
+Description="{0}은(는) 더욱 빨리 발사되고 turn() 회복 중 쓸 수 있습니다."
+AdditionalDescription="> 즉시 발사 \n > turn() 회복 중 사용 가능"/>
 
 <Text Id="Blink_ClusterbombGP_Upgrade" InheritFrom="Blink"
-Description="{0} 턴() 회복 중 사용할 수 있게 됩니다."
-AdditionalDescription="> 턴() 회복 중 사용 가능"/>
+Description="{0} turn() 회복 중 사용할 수 있게 됩니다."
+AdditionalDescription="> turn() 회복 중 사용 가능"/>
 
 <Text Id="Blink_Blink_Upgrade" InheritFrom="Blink"
-Description="{0} 사용 시 턴() 회복을 더 빠르게 합니다."
-AdditionalDescription="> 턴() 회복: \Column 240 \Format TextStat 사용 시 5% 감소"/>
+Description="{0} 사용 시 turn() 회복을 더 빠르게 합니다."
+AdditionalDescription="> turn() 회복: \Column 240 \Format TextStat 사용 시 5% 감소"/>
 
 
-<!-- Orb a.k.a. 에너지 쇄도() -->
+<!-- Orb a.k.a. flood() -->
 
-<Text Id="Orb_Generic" DisplayName="에너지 쇄도()"
+<Text Id="Orb_Generic" DisplayName="flood()"
 Description="폐쇄적인, 지속적인"/>
 
-<Text Id="Orb" DisplayName="에너지 쇄도()"
+<Text Id="Orb" DisplayName="flood()"
 Description="해당 반경 안의 적을 분해시키는 에너지 구름을 소환합니다."
-AdditionalDescription="> 기본 피해: \Column 240 \Format TextStat 초 당 60 \n > 지속 시간: \Column 240 \Format TextStat 4.5초 \n > 턴() 준비 비용: \Column 240 \Format TextStat 25"/>
+AdditionalDescription="> 기본 피해: \Column 240 \Format TextStat 초 당 60 \n > 지속 시간: \Column 240 \Format TextStat 4.5초 \n > turn() 준비 비용: \Column 240 \Format TextStat 25"/>
 
-<Text Id="Orb_Generic_Upgrade" DisplayName="에너지 쇄도()"
+<Text Id="Orb_Generic_Upgrade" DisplayName="flood()"
 Description="함수 대부분에 지속적인 피해를 주는 효과를 부여합니다."/>
 
 <Text Id="Orb_Passive" InheritFrom="Orb"
-Description="턴() 이 완전히 복구되지 않았을 때 목숨을 회복합니다."
+Description="turn() 이 완전히 복구되지 않았을 때 목숨을 회복합니다."
 AdditionalDescription="> 목숨 회복: \Column 240 \Format TextStat 초 당 5 \n > 최대 목숨 회복: \Column 240 \Format TextStat 50%"/>
 
 <Text Id="Orb_DOT_Upgrade" InheritFrom="Orb"
@@ -686,8 +686,8 @@ Description="{0} 광역피해를 주는 공간을 지나가는 자리에 생성�
 AdditionalDescription="> 범위 피해: \Column 240 \Format TextStat 초 당 40 \n > Field Duration: \Column 240 \Format TextStat 4.0초" />
 
 <Text Id="Orb_ClusterbombGP_Upgrade" InheritFrom="Orb"
-Description="{0}은(는) 에너지 쇄도() 덩어리들을 착지 지점에서 산개시킬 것입니다."
-AdditionalDescription="> 에너지 쇄도() 발사체: \Column 240 \Format TextStat 5 \n > 기본 피해: \Column 240 \Format TextStat 초 당 25\n > 범위: \Column 240 \Format TextStat 100" />
+Description="{0}은(는) flood() 덩어리들을 착지 지점에서 산개시킬 것입니다."
+AdditionalDescription="> flood() 발사체: \Column 240 \Format TextStat 5 \n > 기본 피해: \Column 240 \Format TextStat 초 당 25\n > 범위: \Column 240 \Format TextStat 100" />
 
 <Text Id="Orb_Blink_Upgrade" InheritFrom="Orb"
 Description="{0}은(는) 플레이어의 경로를 따라 손상의 흔적을 남길 것입니다."
@@ -706,16 +706,16 @@ Description="여파에 인해 피해 흔적이 남을 수 있습니다."
 AdditionalDescription="> 흔적 대미지: \Column 240 \Format TextStat 초 당 30 \n > 효과 지속시간: \Column 240 \Format TextStat 3.0초"/>
 
 
-<!-- Bomb a.k.a. 채워넣기() -->
+<!-- Bomb a.k.a. load() -->
 
-<Text Id="Bomb_Generic" DisplayName="채워넣기()"
+<Text Id="Bomb_Generic" DisplayName="load()"
 Description="폭발적인, 광역의"/>
 
-<Text Id="Bomb" DisplayName="채워넣기()"
+<Text Id="Bomb" DisplayName="load()"
 Description="휘발성인 덩어리를 채워 넣습니다. 덩어리는 피격 시 요란하게 폭발합니다."
-AdditionalDescription="> 패킷 손상: \Column 240 \Format TextStat 250 \n > 패킷 폭발 반경: \Column 240 \Format TextStat 300 \n > 턴() 준비 비용: \Column 240 \Format TextStat 50"/>
+AdditionalDescription="> 패킷 손상: \Column 240 \Format TextStat 250 \n > 패킷 폭발 반경: \Column 240 \Format TextStat 300 \n > turn() 준비 비용: \Column 240 \Format TextStat 50"/>
 
-<Text Id="Bomb_Generic_Upgrade" DisplayName="채워넣기()"
+<Text Id="Bomb_Generic_Upgrade" DisplayName="load()"
 Description="함수 대부분에 광역 효과를 부여합니다."/>
 
 <Text Id="Bomb_Passive" InheritFrom="Bomb"
@@ -783,55 +783,55 @@ Description="{0}은(는) 더 큰 범위와 피해를 가진 덩어리를 형성�
 AdditionalDescription="패킷 손상: \Column 240 \Format TextStat 125% /n > 폭발 반경: \Column 240 \Format TextStat 200%"/>
 
 
-<!-- Sidearm a.k.a. 정밀사격() -->
+<!-- Sidearm a.k.a. ping() -->
 
-<Text Id="Sidearm_Generic" DisplayName="정밀사격()"
+<Text Id="Sidearm_Generic" DisplayName="ping()"
 Description="재빠른, 효율적인"/>
 
-<Text Id="Sidearm" DisplayName="정밀사격()"
+<Text Id="Sidearm" DisplayName="ping()"
 Description="운동에너지를 실체화하여 한 방향으로 빠르게 발사합니다."
-AdditionalDescription="\Format TextTitleB > 기본 피해: \Column 240 \Format TextStat \Column 285 \Format TextStat 15 \n \Format TextTitleB > 초 당 발사체 개수: \Column 240 \Format TextStat \Column 285 \Format TextStat 4 \n \Format TextTitleB > 턴() 준비 비용: \Column 240 \Format TextStat \Column 285 \Format TextStat 10"/>
+AdditionalDescription="\Format TextTitleB > 기본 피해: \Column 240 \Format TextStat \Column 285 \Format TextStat 15 \n \Format TextTitleB > 초 당 발사체 개수: \Column 240 \Format TextStat \Column 285 \Format TextStat 4 \n \Format TextTitleB > turn() 준비 비용: \Column 240 \Format TextStat \Column 285 \Format TextStat 10"/>
 
-<Text Id="Sidearm_Generic_Upgrade" DisplayName="정밀사격()"
-Description="함수 대부분의 턴() 소모를 줄이고 함수의 속도를 높입니다."/>
+<Text Id="Sidearm_Generic_Upgrade" DisplayName="ping()"
+Description="함수 대부분의 turn() 소모를 줄이고 함수의 속도를 높입니다."/>
 
 <Text Id="Sidearm_Passive" InheritFrom="Sidearm"
-Description="턴() 설계 중 더 멀리 움직일 수 있습니다."
-AdditionalDescription="> 턴() 이동속도: \Column 240 \Format TextStat 200%"/>
+Description="turn() 설계 중 더 멀리 움직일 수 있습니다."
+AdditionalDescription="> turn() 이동속도: \Column 240 \Format TextStat 200%"/>
 
 <Text Id="Sidearm_Upgrade" InheritFrom="Sidearm"
-Description="{0} 턴() 설계 시 더 많은 명령을 넣을 수 있고 실행 속도가 빨라집니다."
-AdditionalDescription="> 턴() 비용 감소: \Column 240 \Format TextStat 25% \n > 공격 속도: \Column 240 \Format TextStat 120%"/>
+Description="{0} turn() 설계 시 더 많은 명령을 넣을 수 있고 실행 속도가 빨라집니다."
+AdditionalDescription="> turn() 비용 감소: \Column 240 \Format TextStat 25% \n > 공격 속도: \Column 240 \Format TextStat 120%"/>
 
 <Text Id="Sidearm_Utility_Upgrade" InheritFrom="Sidearm"
-Description="{0} 턴() 설계할 때 함수를 사용하는 비용을 큰 폭으로 감소시킵니다."/>
+Description="{0} turn() 설계할 때 함수를 사용하는 비용을 큰 폭으로 감소시킵니다."/>
 
 <Text Id="Sidearm_Blink_Upgrade" InheritFrom="Sidearm"
 Description="{0}은(는) 빨리 사격을 할 수 있습니다."/>
 
 <Text Id="Sidearm_Blink_Upgrade2" InheritFrom="Sidearm"
-Description="{0} 턴() 설계 시 더 많은 명령을 넣을 수있습니다"
-AdditionalDescription="> 턴() 비용 감소: \Column 240 \Format TextStat 15%"/>
+Description="{0} turn() 설계 시 더 많은 명령을 넣을 수있습니다"
+AdditionalDescription="> turn() 비용 감소: \Column 240 \Format TextStat 15%"/>
 
 <Text Id="Sidearm_Hide_Upgrade" InheritFrom="Sidearm"
 Description="{0} 사용 후 재사용 대기시간이 빠르게 감소합니다."
 AdditionalDescription="> 빠른 재사용 대기 시간: \Column 240 \Format TextStat 130%"/>
 
 <Text Id="Blink_RecoverOnly_Upgrade" InheritFrom="Sidearm"
-Description="{0} 턴() 회복 중에 사용이 가능해집니다."
-AdditionalDescription="> 턴() 회복 중에 사용 가능"/>
+Description="{0} turn() 회복 중에 사용이 가능해집니다."
+AdditionalDescription="> turn() 회복 중에 사용 가능"/>
 
 
-<!-- Tracker a.k.a. 기생충 주입() -->
+<!-- Tracker a.k.a. purge() -->
 
-<Text Id="Tracker_Generic" DisplayName="기생충 주입()"
+<Text Id="Tracker_Generic" DisplayName="purge()"
 Description="부식성의, 둔화시키는"/>
 
-<Text Id="Tracker" DisplayName="기생충 주입()"
+<Text Id="Tracker" DisplayName="purge()"
 Description="적에게 파고들어 내부를 갉아먹는 기생충을 소환합니다."
-AdditionalDescription="> 기본 피해: \Column 240 \Format TextStat 120 in 3.0 Sec \n > Target Slowed: \Column 240 \Format TextStat 70% \n > 턴() 준비 비용: \Column 240 \Format TextStat 20"/>
+AdditionalDescription="> 기본 피해: \Column 240 \Format TextStat 120 in 3.0 Sec \n > Target Slowed: \Column 240 \Format TextStat 70% \n > turn() 준비 비용: \Column 240 \Format TextStat 20"/>
 
-<Text Id="Tracker_Generic_Upgrade" DisplayName="기생충 주입()"
+<Text Id="Tracker_Generic_Upgrade" DisplayName="purge()"
 Description="함수 대부분에 적을 부패시키는 효과를 부여합니다."/>
 
 <Text Id="Tracker_Passive" InheritFrom="Tracker"
@@ -843,8 +843,8 @@ Description="{0} 상대를 느리게 하고, 도트 피해를 줍니다."
 AdditionalDescription="> 도트 피해: \Column 240 \Format TextStat 40 in 2.0초 \n > 대상 둔화: \Column 240 \Format TextStat 70%"/>
 
 <Text Id="Tracker_Utility_Upgrade" InheritFrom="Tracker"
-Description="{0} 기생충 주입()과 기생충을 소환합니다."
-AdditionalDescription="> 기생충 주입() 기생충 소환: \Column 240 \Format TextStat 3 \n > 기생충 주입() Damage: \Column 240 \Format TextStat 120 in 3.0초 \n > 대상 느려짐: \Column 240 \Format TextStat 70%"/>
+Description="{0} purge()과 기생충을 소환합니다."
+AdditionalDescription="> purge() 기생충 소환: \Column 240 \Format TextStat 3 \n > purge() Damage: \Column 240 \Format TextStat 120 in 3.0초 \n > 대상 느려짐: \Column 240 \Format TextStat 70%"/>
 
 <Text Id="Tracker_Charm_Upgrade" InheritFrom="Tracker"
 Description="{0} 기본 효과와 도트 피해를 중첩해 입힙니다."
@@ -859,12 +859,12 @@ Description="{0} 기본효과와 도트 대미지를 중첩해 입힙니다."
 AdditionalDescription="> 도트 대미지: \Column 240 \Format TextStat 40 in 2.0초"/>
 
 <Text Id="Tracker_Blink_Upgrade" InheritFrom="Tracker"
-Description="{0} 플레이어가 서 있는 곳에 기생충 주입() 기생충을 생성합니다."
-AdditionalDescription="> 기생충 주입() 기생충: \Column 240 \Format TextStat 1 \n > 기생충 주입() 대미지: \Column 240 \Format TextStat 3.0초 동안 120 \n > 대상 둔화: \Column 240 \Format TextStat 70%"/>
+Description="{0} 플레이어가 서 있는 곳에 purge() 기생충을 생성합니다."
+AdditionalDescription="> purge() 기생충: \Column 240 \Format TextStat 1 \n > purge() 대미지: \Column 240 \Format TextStat 3.0초 동안 120 \n > 대상 둔화: \Column 240 \Format TextStat 70%"/>
 
 <Text Id="Tracker_Hide_Upgrade" InheritFrom="Tracker"
-Description="{0} 기생충 주입() 기본 효과와 기생충 여러 마리를 추가로 소환합니다."
-AdditionalDescription="> 기생충 주입() 기생충: \Column 240 \Format TextStat 3 \n > 기생충 주입() 대미지: \Column 240 \Format TextStat 3.0초 동안 120 \n > 대상 둔화: \Column 240 \Format TextStat 70%"/>
+Description="{0} purge() 기본 효과와 기생충 여러 마리를 추가로 소환합니다."
+AdditionalDescription="> purge() 기생충: \Column 240 \Format TextStat 3 \n > purge() 대미지: \Column 240 \Format TextStat 3.0초 동안 120 \n > 대상 둔화: \Column 240 \Format TextStat 70%"/>
 
 <Text Id="Tracker_Slam_Upgrade" InheritFrom="Tracker"
 Description="{0} 대상을 둔화시키고 도트 대미지를 입힙니다."
@@ -875,20 +875,20 @@ Description="{0} 기본 효과와 중첩해 대상을 둔화시키고 도트 대
 AdditionalDescription="> 도트 대미지: \Column 240 \Format TextStat 3.0초 동안 70 \n > 대상 둔화: \Column 240 \Format TextStat 70%"/>
 
 <Text Id="Tracker_Tracker_Upgrade" InheritFrom="Tracker"
-Description="{0} 기생충 주입() 기생충의 숙주가 파괴되면 다른 대상을 찾아 들어갑니다."
+Description="{0} purge() 기생충의 숙주가 파괴되면 다른 대상을 찾아 들어갑니다."
 AdditionalDescription="> 대상 파괴 시 확산"/>
 
 
-<!-- Jumper a.k.a. 튕기기() -->
+<!-- Jumper a.k.a. bounce() -->
 
-<Text Id="Jumper_Generic" DisplayName="튕기기()"
+<Text Id="Jumper_Generic" DisplayName="bounce()"
 Description="연쇄적인, 굴절하는"/>
 
-<Text Id="Jumper" DisplayName="튕기기()"
+<Text Id="Jumper" DisplayName="bounce()"
 Description="적과 적 사이를 옮겨다니며 피해를 주는 전격 구체를 발사합니다."
-AdditionalDescription="> 기본 피해: \Column 240 \Format TextStat 100 \n > 튕기는 횟수: \Column 240 \Format TextStat 5 \n > 턴() 준비 비용: \Column 240 \Format TextStat 35"/>
+AdditionalDescription="> 기본 피해: \Column 240 \Format TextStat 100 \n > 튕기는 횟수: \Column 240 \Format TextStat 5 \n > turn() 준비 비용: \Column 240 \Format TextStat 35"/>
 
-<Text Id="Jumper_Generic_Upgrade" DisplayName="튕기기()"
+<Text Id="Jumper_Generic_Upgrade" DisplayName="bounce()"
 Description="함수 대부분에 연쇄적인 효과를 부여합니다."/>
 
 <Text Id="Jumper_Passive" InheritFrom="Jumper"
@@ -921,7 +921,7 @@ AdditionalDescription="> 연쇄 공격 횟수: \Column 240 \Format TextStat 1 \n
 
 <Text Id="Jumper_Bomb_Upgrade" InheritFrom="Jumper"
 Description="{0}은(는) 폭발 후 에너지 구체 형태로 튕기는 덩어리를 만들 것입니다."
-AdditionalDescription="> 튕기기() 구체: \Column 240 \Format TextStat 10"/>
+AdditionalDescription="> bounce() 구체: \Column 240 \Format TextStat 10"/>
 
 <Text Id="Jumper_Charm_Upgrade" InheritFrom="Jumper"
 Description="{0}은(는) 근접한 다수의 적에게 연쇄 공격을 할 것입니다."
@@ -933,7 +933,7 @@ AdditionalDescription="> 연쇄 공격 횟수: \Column 240 \Format TextStat 5 \n
 
 <Text Id="Jumper_Hide_Upgrade" InheritFrom="Jumper"
 Description="{0}는 기본효과에 추가로 몇 개의 바운스 볼트를 생성합니다."
-AdditionalDescription="> 튕기기() 구체: \Column 240 \Format TextStat 3 \n > 기본 피해: \Column 240 \Format TextStat 100 \n > 연쇄 공격 횟수: \Column 240 \Format TextStat 5"/>
+AdditionalDescription="> bounce() 구체: \Column 240 \Format TextStat 3 \n > 기본 피해: \Column 240 \Format TextStat 100 \n > 연쇄 공격 횟수: \Column 240 \Format TextStat 5"/>
 
 <Text Id="Jumper_Tracker_Upgrade" InheritFrom="Jumper"
 Description="{0}는 잠재적으로 하나 이상에 영향을 미치는 대상을 통과하게 됩니다."
@@ -941,7 +941,7 @@ AdditionalDescription="> 대상 침투"/>
 
 <Text Id="Jumper_Tracker_Upgrade2" InheritFrom="Jumper"
 Description="{0}는 충격을 받으면 기본효과에 추가로 몇 개의 바운스 볼트를 생성합니다."
-AdditionalDescription="> 튕기기() 구체: \Column 240 \Format TextStat 3 \n > 연쇄 공격 횟수: \Column 240 \Format TextStat 5"/>
+AdditionalDescription="> bounce() 구체: \Column 240 \Format TextStat 3 \n > 연쇄 공격 횟수: \Column 240 \Format TextStat 5"/>
 
 <Text Id="Jumper_Heal_Upgrade" InheritFrom="Jumper"
 Description="{0}는 무작위 대상에게 연쇄적으로 반응합니다."
@@ -956,21 +956,21 @@ Description="{0}는 더 많은 숫자의 대상을 튕겨다닐 수 있으며, �
 AdditionalDescription="> 연쇄 공격 횟수: 10 /n > 연쇄 공격 반경: 133% /n > 연쇄 공격 시 피해량 감소: 0%"/>
 
 
-<!-- Uppercut a.k.a. 도태시키기() -->
+<!-- Uppercut a.k.a. cull() -->
 
-<Text Id="Uppercut_Generic" DisplayName="도태시키기()"
+<Text Id="Uppercut_Generic" DisplayName="cull()"
 Description="파괴적인, 동적인"/>
 
-<Text Id="Uppercut" DisplayName="도태시키기()"
+<Text Id="Uppercut" DisplayName="cull()"
 Description="주변의 적을 엄청난 힘으로 내리쳐 공중으로 띄웁니다."
-AdditionalDescription="> 기본 피해: \Column 240 \Format TextStat 225 \n > 턴() 준비 비용: \Column 240 \Format TextStat 70 \n > 상승 영향"/>
+AdditionalDescription="> 기본 피해: \Column 240 \Format TextStat 225 \n > turn() 준비 비용: \Column 240 \Format TextStat 70 \n > 상승 영향"/>
 
-<Text Id="Uppercut_Generic_Upgrade" DisplayName="도태시키기()"
+<Text Id="Uppercut_Generic_Upgrade" DisplayName="cull()"
 Description="함수 운동량 대부분을 높이거나 효과의 지속 시간을 늘립니다."/>
 
 <Text Id="Uppercut_Passive" InheritFrom="Uppercut"
-Description="턴() 설계 시 부딪히는 모든 적에게 피해를 줍니다."
-AdditionalDescription="> 신규 활성: \Column 240 \Format TextStat Check() \n > 기본 피해: \Column 240 \Format TextStat 150 \n > 턴() 준비 비용: \Column 240 \Format TextStat 10"/>
+Description="turn() 설계 시 부딪히는 모든 적에게 피해를 줍니다."
+AdditionalDescription="> 신규 활성: \Column 240 \Format TextStat Check() \n > 기본 피해: \Column 240 \Format TextStat 150 \n > turn() 준비 비용: \Column 240 \Format TextStat 10"/>
 
 <Text Id="Uppercut_Upgrade" InheritFrom="Uppercut"
 Description="{0}는 더 큰 피해를 주고 대상을 날려 버립니다."
@@ -1016,16 +1016,16 @@ AdditionalDescription="> 최대 피해: \Column 240 \Format TextStat 125% \n > �
 <Text Id="PetExecuteWeapon" DisplayName="공격지령()"/>
 
 
-<!-- Hook a.k.a. 끌어모으기() -->
+<!-- Hook a.k.a. get() -->
 
-<Text Id="Hook_Generic" DisplayName="끌어모으기()"
+<Text Id="Hook_Generic" DisplayName="get()"
 Description="끌어모으는, 재배열하는"/>
 
-<Text Id="Hook" DisplayName="끌어모으기()"
+<Text Id="Hook" DisplayName="get()"
 Description="플레이어 가까이 적을 강제로 끌어들입니다. 거리가 멀수록 피해가 증가합니다."
-AdditionalDescription="> 최대 피해: \Column 240 \Format TextStat 150 \n > 턴() 준비 비용: \Column 240 \Format TextStat 10 \n > Pulls Target to User"/>
+AdditionalDescription="> 최대 피해: \Column 240 \Format TextStat 150 \n > turn() 준비 비용: \Column 240 \Format TextStat 10 \n > Pulls Target to User"/>
 
-<Text Id="Hook_Generic_Upgrade" DisplayName="끌어모으기()"
+<Text Id="Hook_Generic_Upgrade" DisplayName="get()"
 Description="함수 대부분에 상대방을 끌어들이는 효과를 부여합니다."/>
 
 <Text Id="Hook_Passive" InheritFrom="Hook"
@@ -1081,16 +1081,16 @@ Description="{0}는 멀리 있는 대상을 공격 시, 효과를 더 얻습니�
 AdditionalDescription="> 최대 범위 대미지: \Column 240 \Format TextStat 100"/>
 
 
-<!-- Charm a.k.a. 매혹() -->
+<!-- Charm a.k.a. switch() -->
 
-<Text Id="Charm_Generic" DisplayName="매혹()"
+<Text Id="Charm_Generic" DisplayName="switch()"
 Description="세뇌하는, 이간질하는"/>
 
-<Text Id="Charm" DisplayName="매혹()"
+<Text Id="Charm" DisplayName="switch()"
 Description="적의 동맹 상태를 변경하여 플레이어를 따르게 합니다."
-AdditionalDescription="> 매혹 지속 시간: \Column 240 \Format TextStat 6.0초 \n > 턴() 준비 비용: \Column 240 \Format TextStat 40"/>
+AdditionalDescription="> 매혹 지속 시간: \Column 240 \Format TextStat 6.0초 \n > turn() 준비 비용: \Column 240 \Format TextStat 40"/>
 
-<Text Id="Charm_Generic_Upgrade" DisplayName="매혹()"
+<Text Id="Charm_Generic_Upgrade" DisplayName="switch()"
 Description="함수 대부분에 적을 세뇌하는 효과를 부여합니다."/>
 
 <Text Id="Charm_Passive" InheritFrom="Charm"
@@ -1146,16 +1146,16 @@ Description="{0} 기본 효과 외에도 대상에게 추가 대미지를 입힙
 AdditionalDescription="> 기본 피해: \Column 240 \Format TextStat 100"/>
 
 
-<!-- Hide a.k.a. 은신술() -->
+<!-- Hide a.k.a. mask() -->
 
-<Text Id="Hide_Generic" DisplayName="은신술()"
+<Text Id="Hide_Generic" DisplayName="mask()"
 Description="파괴적인, 감추는"/>
 
-<Text Id="Hide" DisplayName="은신술()"
+<Text Id="Hide" DisplayName="mask()"
 Description="플레이어를 다음 공격 시까지 은신 상태로 만듭니다."
-AdditionalDescription="> 플레이어 은신: \Column 240 \Format TextStat 6.3초 \n > 은신 해제 시 피해량: \Column 240 \Format TextStat 200% \n > 턴() 복구 시간 동안 사용 가능"/>
+AdditionalDescription="> 플레이어 은신: \Column 240 \Format TextStat 6.3초 \n > 은신 해제 시 피해량: \Column 240 \Format TextStat 200% \n > turn() 복구 시간 동안 사용 가능"/>
 
-<Text Id="Hide_Generic_Upgrade" DisplayName="은신술()"
+<Text Id="Hide_Generic_Upgrade" DisplayName="mask()"
 Description="함수 대부분에 배후 공격 시 피해량을 늘리는 효과를 부여합니다."/>
 
 <Text Id="Hide_Passive" InheritFrom="Hide"
@@ -1213,16 +1213,16 @@ Description="{0}이(가) 다음 유저의 행동을 좀 더 강하게 만들어�
 AdditionalDescription="> 은신 피해: \Column 240 \Format TextStat 250%"/>
 
 
-<!-- Might a.k.a. 공허() -->
+<!-- Might a.k.a. void() -->
 
-<Text Id="Might_Generic" DisplayName="공허()"
+<Text Id="Might_Generic" DisplayName="void()"
 Description="증폭시키는, 우울한"/>
 
-<Text Id="Might" DisplayName="공허()"
+<Text Id="Might" DisplayName="void()"
 Description="적의 공격과 방어를 약화시킵니다. 최대 세 번 중첩됩니다."
-AdditionalDescription="> 약화된 대상: \Column 240 \Format TextStat 175% \n > 지속 시간: \Column 240 \Format TextStat 4.3초 \n > 턴() 준비 비용: \Column 240 \Format TextStat 15"/>
+AdditionalDescription="> 약화된 대상: \Column 240 \Format TextStat 175% \n > 지속 시간: \Column 240 \Format TextStat 4.3초 \n > turn() 준비 비용: \Column 240 \Format TextStat 15"/>
 
-<Text Id="Might_Generic_Upgrade" DisplayName="공허()"
+<Text Id="Might_Generic_Upgrade" DisplayName="void()"
 Description="함수 피해 대부분과 효과를 강화합니다."/>
 
 <Text Id="Might_Upgrade" InheritFrom="Might"
@@ -1273,16 +1273,16 @@ Description="{0} 대상들에게 좀 더 긴 시간 동안 영향을 미칩니�
 AdditionalDescription="> 지속 시간: \Column 240 \Format TextStat 8.6초"/>
 
 
-<!-- Heal a.k.a. 에너지 흡수() -->
+<!-- Heal a.k.a. tap() -->
 
-<Text Id="Heal_Generic" DisplayName="에너지 흡수()"
+<Text Id="Heal_Generic" DisplayName="tap()"
 Description="재생의, 기생하는"/>
 
-<Text Id="Heal" DisplayName="에너지 흡수()"
+<Text Id="Heal" DisplayName="tap()"
 Description="플레이어 주변에 있는 적의 생명을 흡수합니다."
-AdditionalDescription="> 기본 피해: \Column 240 \Format TextStat 150 \n > 흡혈: \Column 240 \Format TextStat 1% \n > 턴() 준비 비용: \Column 240 \Format TextStat 35"/>
+AdditionalDescription="> 기본 피해: \Column 240 \Format TextStat 150 \n > 흡혈: \Column 240 \Format TextStat 1% \n > turn() 준비 비용: \Column 240 \Format TextStat 35"/>
 
-<Text Id="Heal_Generic_Upgrade" DisplayName="에너지 흡수()"
+<Text Id="Heal_Generic_Upgrade" DisplayName="tap()"
 Description="함수 대부분에 생명력 흡수 효과를 부여합니다."/>
 
 <Text Id="Heal_Passive" InheritFrom="Heal"
@@ -1338,27 +1338,27 @@ Description="{0} 주변의 대상들에게서 좀 더 많은 생명력을 빼앗
 AdditionalDescription="> 생명 흡수: \Column 240 \Format TextStat 3%"/>
 
 
-<!-- Summon a.k.a. 도움!() -->
+<!-- Summon a.k.a. help() -->
 
-<Text Id="Summon_Generic" DisplayName="도움!()"
+<Text Id="Summon_Generic" DisplayName="help()"
 Description="변화적인, 도와주는"/>
 
-<Text Id="Summon" DisplayName="도움!()"
-Description="플레이어를 따르는 아군을 소환합니다. 턴() 으로 행동을 조종할 수 있습니다."
-AdditionalDescription="> 동료 기본 피해: \Column 240 \Format TextStat 75 \n > 동료 목숨: \Column 240 \Format TextStat 20 \n > 턴() 동안 동료 사용 가능"/>
+<Text Id="Summon" DisplayName="help()"
+Description="플레이어를 따르는 아군을 소환합니다. turn() 으로 행동을 조종할 수 있습니다."
+AdditionalDescription="> 동료 기본 피해: \Column 240 \Format TextStat 75 \n > 동료 목숨: \Column 240 \Format TextStat 20 \n > turn() 동안 동료 사용 가능"/>
 
-<Text Id="Summon_Generic_Upgrade" DisplayName="도움!()"
+<Text Id="Summon_Generic_Upgrade" DisplayName="help()"
 Description="함수 대부분에 셀이 재생성할 수 없게 막는 능력을 부여합니다."/>
 
 <Text Id="Summon_Passive" InheritFrom="Summon"
-Description="플레이어는 턴() 실행 중 25% 확률로 슈퍼유저가 됩니다."
-AdditionalDescription="> 새로운 액티브: \Column 240 \Format TextStat 암살() \n > 기본 피해: \Column 240 \Format TextStat 500 \n > 턴() 준비 비용: \Column 240 \Format TextStat 110"/>
+Description="플레이어는 turn() 실행 중 25% 확률로 슈퍼유저가 됩니다."
+AdditionalDescription="> 새로운 액티브: \Column 240 \Format TextStat kill() \n > 기본 피해: \Column 240 \Format TextStat 500 \n > turn() 준비 비용: \Column 240 \Format TextStat 110"/>
 
-<Text Id="Summon_Blink_Upgrade" DisplayName="도움!()"
+<Text Id="Summon_Blink_Upgrade" DisplayName="help()"
 Description="{0}은(는) 사용자 분신의 뒤에 남을 것입니다."
 AdditionalDescription="> 분신 생성됨: \Column 240 \Format TextStat 1 \n > 분신 생명: \Column 240 \Format TextStat 20"/>
 
-<Text Id="Summon_Bomb_Upgrade" DisplayName="도움!()"
+<Text Id="Summon_Bomb_Upgrade" DisplayName="help()"
 Description="{0} 셀들이 생성되는 걸 50%의 확률로 막아주는 덩어리를 만듭니다."
 AdditionalDescription="> 셀 파괴 확률: \Column 240 \Format TextStat 50%"/>
 
@@ -1388,7 +1388,7 @@ AdditionalDescription="> 연쇄 공격 횟수: \Column 240 \Format TextStat 3 \n
 
 <Text Id="PlayerPetBark" DisplayName="짖기()"/>
 
-<Text Id="ArchonAttack" DisplayName="암살()"/>
+<Text Id="ArchonAttack" DisplayName="kill()"/>
 
 <Text Id="Slam_Pet" InheritFrom="Slam"
 Description="{0}은(는) 대상을 기절시키고 기절에 면역인 강한 동료를 소환합니다."
@@ -1396,7 +1396,7 @@ AdditionalDescription="> 동료 기절 내성 \n > 짖기() 스턴 지속시간:
 
 <Text Id="Snipe_Pet" InheritFrom="Snipe"
 Description="{0}은(는) 긴 공격 범위와 더 많은 턴을 계획할 수 있는 강한 동료를 소환합니다."
-AdditionalDescription="> 효과() 범위: \Column 240 \Format TextStat 300% \n > 턴() 계획: \Column 240 \Format TextStat 130% \n > 동료 생명: \Column 240 \Format TextStat 200%"/>
+AdditionalDescription="> 효과() 범위: \Column 240 \Format TextStat 300% \n > turn() 계획: \Column 240 \Format TextStat 130% \n > 동료 생명: \Column 240 \Format TextStat 200%"/>
 
 <Text Id="Clusterbomb_Pet" InheritFrom="Clusterbomb"
 Description="{0}은(는) 각각 턴을 계획할 수 있는 2마리의 작은 동료를 소환합니다."
@@ -1443,7 +1443,7 @@ Description="{0}은(는) 매시간마다 대미지를 주는 효과를 가진 �
 AdditionalDescription="> 피해 시간 효과() \n > 동료 생명: \Column 240 \Format TextStat 200%"/>
 
 <Text Id="Uppercut_Pet" InheritFrom="Uppercut"
-Description="{0}은(는) 턴()이 실행되는 동안 대상에게 접족하여 대미지를 주는 강한 동료를 소환합니다."
+Description="{0}은(는) turn()이 실행되는 동안 대상에게 접족하여 대미지를 주는 강한 동료를 소환합니다."
 AdditionalDescription="> 새로운 활성: \Column 240 \Format TextStat Sic() \n > 기본 피해: \Column 240 \Format TextStat 150 \n > 동료 생명: \Column 240 \Format TextStat 200%"/>
 
 <Text Id="Jumper_Pet" InheritFrom="Jumper"
@@ -1457,26 +1457,26 @@ AdditionalDescription="> 셀 파괴 확률: \Column 240 \Format TextStat 90% \n 
 
 <!-- Focus Tutorial & Misc Hints -->
 <Text Id="Waypoint" DisplayName="적"/>
-<Text Id="Hint_Focus_Tutorial01" DisplayName="> 턴() 시작됨"/>
+<Text Id="Hint_Focus_Tutorial01" DisplayName="> turn() 시작됨"/>
 <Text Id="Hint_Focus_Tutorial02" DisplayName="> 설계 시작"/>
 <Text Id="Hint_Focus_Moving" DisplayName="> 추천 경로"/>
-<Text Id="Hint_Focus_Acting" DisplayName="> {A1}을(를) 눌러 내려찍기()를 사용하세요"/>
-<Text Id="Hint_Focus_Acting_Mouse" DisplayName="> {S}을(를) 눌러 내려찍기()를 사용하세요"/>
-<Text Id="Hint_Focus_Acting2" DisplayName="> {A2}을(를) 눌러 붕괴시키기()를 사용하세요"/>
-<Text Id="Hint_Focus_Acting2_Mouse" DisplayName="> {S}을(를) 눌러 붕괴시키기()를 사용하세요"/>
-<Text Id="Hint_Focus_Energy" DisplayName="> 모든 행동은 턴()을 소모합니다"/>
+<Text Id="Hint_Focus_Acting" DisplayName="> {A1}을(를) 눌러 crash()를 사용하세요"/>
+<Text Id="Hint_Focus_Acting_Mouse" DisplayName="> {S}을(를) 눌러 crash()를 사용하세요"/>
+<Text Id="Hint_Focus_Acting2" DisplayName="> {A2}을(를) 눌러 breach()를 사용하세요"/>
+<Text Id="Hint_Focus_Acting2_Mouse" DisplayName="> {S}을(를) 눌러 breach()를 사용하세요"/>
+<Text Id="Hint_Focus_Energy" DisplayName="> 모든 행동은 turn()을 소모합니다"/>
 <Text Id="Hint_Focus_Executing" DisplayName="{F}을(를) 눌러 계획을 실행하세요"/>
 <Text Id="Hint_Focus_Undoing" DisplayName="취소하려면 {U}을(를) 누르세요"/>
 <Text Id="Hint_Focus_ActionsUndone" DisplayName="최근 행동이 취소됨"/>
-<Text Id="Hint_Focus_Recovering" DisplayName="> 턴() 복구 도중엔 엄폐할 곳을 찾으세요"/>
-<Text Id="Hint_Focus_Focusing" DisplayName="{F}을(를) 눌러 턴()을 사용하세요"/>
-<Text Id="Hint_Focus_Cancelling" DisplayName="턴()을 취소하려면 {U}을(를) 누르세요"/>
+<Text Id="Hint_Focus_Recovering" DisplayName="> turn() 복구 도중엔 엄폐할 곳을 찾으세요"/>
+<Text Id="Hint_Focus_Focusing" DisplayName="{F}을(를) 눌러 turn()을 사용하세요"/>
+<Text Id="Hint_Focus_Cancelling" DisplayName="turn()을 취소하려면 {U}을(를) 누르세요"/>
 <Text Id="Hint_Focus_EnergyLeft03" DisplayName="> 행동을 더 계획하세요"/>
 <Text Id="Hint_Focus_HowToAim" DisplayName="> {A1}, {A2}, {A3}, 또는 {A4}을(를) 눌러 목표를 설정하세요"/>
 <Text Id="Hint_HowToPauseMenu" DisplayName="{ST}을(를) 눌러 메인 메뉴로 나갈 수 있습니다"/>
 <Text Id="Hint_HowToSummonSwitch" DisplayName="{RB}을(를) 눌러 아군을 조종할 수 있습니다"/>
-<Text Id="Hint_HowToArchon" DisplayName="{A1}을(를) 눌러 암살()의 대상을 지정하세요"/>
-<Text Id="Hint_HowToArchon_Mouse" DisplayName="{S}을(를) 눌러 암살()의 대상을 지정하세요"/>
+<Text Id="Hint_HowToArchon" DisplayName="{A1}을(를) 눌러 kill()의 대상을 지정하세요"/>
+<Text Id="Hint_HowToArchon_Mouse" DisplayName="{S}을(를) 눌러 kill()의 대상을 지정하세요"/>
 <Text Id="Hint_HowToAccessLimiters" DisplayName="{F}을(를) 눌러 데이터를 해독할 수 있습니다"/>
 <Text Id="Hint_HowToAccessLimiters2" DisplayName="{F}을(를) 눌러 액세스 포인트의 데이터를 해독할 수 있습니다"/>
 <Text Id="Hint_HowToAccessLimiters3" DisplayName="액세스 포인트 가까이에서 {A1}을(를) 누르세요"/>
@@ -1565,7 +1565,7 @@ AdditionalDescription="> 셀 파괴 확률: \Column 240 \Format TextStat 90% \n 
 <Text Id="Welcome01_Text08" DisplayName="> 프로세스화: 100%"/>
 <Text Id="Welcome01_Text09" DisplayName="> 프로세스화: 77%"/>
 <Text Id="Welcome01_Text10" DisplayName="> 루트 접근"/>
-<Text Id="Welcome01_Text11" DisplayName="> 전격 클러스터() 함수 사용 가능"/>
+<Text Id="Welcome01_Text11" DisplayName="> spark() 함수 사용 가능"/>
 <Text Id="Welcome01_Text12" DisplayName="> 셀을 반납해주세요"/>
 <Text Id="Welcome01_Text13" DisplayName="> 만족 보증:"/>
 <Text Id="Welcome01_Text14" DisplayName="> 쉬는 날:"/>
@@ -2054,9 +2054,9 @@ AdditionalDescription="> 셀 파괴 확률: \Column 240 \Format TextStat 90% \n 
 
 <Text Id="SandboxDemolition01_Objective" DisplayName="사용할 수 있는 기능을 평가"/>
 <Text Id="SandboxDemolition02_Objective" DisplayName="원할 때 반환"/>
-<Text Id="SandboxDemolition01_TurnDamage" DisplayName="남은 턴():"/>
-<Text Id="SandboxDemolition01_TurnDamageRecord" DisplayName="턴() 기록:"/>
-<Text Id="SandboxDemolition01_NewRecord" DisplayName="새로운 턴() 기록 달성"/>
+<Text Id="SandboxDemolition01_TurnDamage" DisplayName="남은 turn():"/>
+<Text Id="SandboxDemolition01_TurnDamageRecord" DisplayName="turn() 기록:"/>
+<Text Id="SandboxDemolition01_NewRecord" DisplayName="새로운 turn() 기록 달성"/>
 <Text Id="SandboxDemolition01_Exit" InheritFrom="Sandbox01_Exit"/>
 
 <Text Id="SandboxEndless02_HandScreenIntro" DisplayName="기능 허용: 3 of {0}"/>
@@ -2070,7 +2070,7 @@ AdditionalDescription="> 셀 파괴 확률: \Column 240 \Format TextStat 90% \n 
 <Text Id="SandboxTimed03_Objective" InheritFrom="SandboxTimed01_Objective"/>
 <Text Id="SandboxTimed01_TimeRemaining" DisplayName="남은 시간"/>
 
-<Text Id="SandboxCheckmate01_Objective01" DisplayName="한 턴()에서 과정 종료"/>
+<Text Id="SandboxCheckmate01_Objective01" DisplayName="한 turn()에서 과정 종료"/>
 
 <Text Id="SandboxShowdown01_Objective" DisplayName="복사본 제거"/>
 <Text Id="SandboxShowdown02_Objective" InheritFrom="SandboxShowdown01_Objective"/>
@@ -2717,34 +2717,34 @@ AdditionalDescription="> 셀 파괴 확률: \Column 240 \Format TextStat 90% \n 
 <!-- Weapon Hints -->
 <Text Id="Hint_LevelUp_NewPowers" DisplayName="사용자의 접근 권한: 레벨 2"/>
 <Text Id="Hint_LevelUp_NewPowersB" DisplayName="모든 함수가 업그레이드 됨"/>
-<Text Id="Hint_LevelUp_NewPowers01" DisplayName="{A1} 로 내려찍기() 함수를 재정의"/>
-<Text Id="Hint_LevelUp_NewPowers02" DisplayName="{A2} 로 붕괴시키기() 함수를 재정의"/>
-<Text Id="Hint_LevelUp_NewPowers03" DisplayName="{A3} 로 전격 클러스터() 함수를 재정의"/>
-<Text Id="Hint_LevelUp_NewPowers04" DisplayName="{A4} 로 순보() 함수를 재정의"/>
-<Text Id="Hint_Controls_Clusterbomb" DisplayName="{A3} 로 전격 클러스터() 사용"/>
-<Text Id="Hint_Controls_ClusterbombGP_1" DisplayName="{A1} 로 전격 클러스터() 함수 사용"/>
-<Text Id="Hint_Controls_ClusterbombGP_2" DisplayName="{A2} 로 전격 클러스터() 함수 사용"/>
-<Text Id="Hint_Controls_ClusterbombGP_3" DisplayName="{A3} 로 전격 클러스터() 함수 사용"/>
-<Text Id="Hint_Controls_ClusterbombGP_4" DisplayName="{A4} 로 전격 클러스터() 함수 사용"/>
-<Text Id="Hint_Controls_Clusterbomb2" DisplayName="{A2} 로 전격 클러스터() 함수 사용"/>
-<Text Id="Hint_Controls_Blink" DisplayName="{A4} 로 순보() 함수 사용"/>
-<Text Id="Hint_Controls_BlinkAlt" DisplayName="{A3} 로 순보() 함수 사용"/>
-<Text Id="Hint_Controls_Blink_1" DisplayName="{A1} 로 순보() 함수 사용"/>
-<Text Id="Hint_Controls_Blink_2" DisplayName="{A2} 로 순보() 함수 사용"/>
-<Text Id="Hint_Controls_Blink_3" DisplayName="{A3} 로 순보() 함수 사용"/>
-<Text Id="Hint_Controls_Blink_4" DisplayName="{A4} 로 순보() 함수 사용"/>
-<Text Id="Hint_Controls_Sidearm_1" DisplayName="{A1} 로 정밀사격() 함수 사용"/>
-<Text Id="Hint_Controls_Sidearm_2" DisplayName="{A2} 로 정밀사격() 함수 사용"/>
-<Text Id="Hint_Controls_Sidearm_3" DisplayName="{A3} 로 정밀사격() 함수 사용"/>
-<Text Id="Hint_Controls_Sidearm_4" DisplayName="{A4} 로 정밀사격() 함수 사용"/>
-<Text Id="Hint_Controls_Orb_1" DisplayName="{A1} 로 에너지 쇄도() 함수 사용"/>
-<Text Id="Hint_Controls_Orb_2" DisplayName="{A2} 로 에너지 쇄도() 함수 사용"/>
-<Text Id="Hint_Controls_Orb_3" DisplayName="{A3} 로 에너지 쇄도() 함수 사용"/>
-<Text Id="Hint_Controls_Orb_4" DisplayName="{A4} 로 에너지 쇄도() 함수 사용"/>
-<Text Id="Hint_Controls_Bomb_1" DisplayName="{A1} 로 채워넣기() 함수 사용"/>
-<Text Id="Hint_Controls_Bomb_2" DisplayName="{A2} 로 채워넣기() 함수 사용"/>
-<Text Id="Hint_Controls_Bomb_3" DisplayName="{A3} 로 채워넣기() 함수 사용"/>
-<Text Id="Hint_Controls_Bomb_4" DisplayName="{A4} 로 채워넣기() 함수 사용"/>
+<Text Id="Hint_LevelUp_NewPowers01" DisplayName="{A1} 로 crash() 함수를 재정의"/>
+<Text Id="Hint_LevelUp_NewPowers02" DisplayName="{A2} 로 breach() 함수를 재정의"/>
+<Text Id="Hint_LevelUp_NewPowers03" DisplayName="{A3} 로 spark() 함수를 재정의"/>
+<Text Id="Hint_LevelUp_NewPowers04" DisplayName="{A4} 로 jaunt() 함수를 재정의"/>
+<Text Id="Hint_Controls_Clusterbomb" DisplayName="{A3} 로 spark() 사용"/>
+<Text Id="Hint_Controls_ClusterbombGP_1" DisplayName="{A1} 로 spark() 함수 사용"/>
+<Text Id="Hint_Controls_ClusterbombGP_2" DisplayName="{A2} 로 spark() 함수 사용"/>
+<Text Id="Hint_Controls_ClusterbombGP_3" DisplayName="{A3} 로 spark() 함수 사용"/>
+<Text Id="Hint_Controls_ClusterbombGP_4" DisplayName="{A4} 로 spark() 함수 사용"/>
+<Text Id="Hint_Controls_Clusterbomb2" DisplayName="{A2} 로 spark() 함수 사용"/>
+<Text Id="Hint_Controls_Blink" DisplayName="{A4} 로 jaunt() 함수 사용"/>
+<Text Id="Hint_Controls_BlinkAlt" DisplayName="{A3} 로 jaunt() 함수 사용"/>
+<Text Id="Hint_Controls_Blink_1" DisplayName="{A1} 로 jaunt() 함수 사용"/>
+<Text Id="Hint_Controls_Blink_2" DisplayName="{A2} 로 jaunt() 함수 사용"/>
+<Text Id="Hint_Controls_Blink_3" DisplayName="{A3} 로 jaunt() 함수 사용"/>
+<Text Id="Hint_Controls_Blink_4" DisplayName="{A4} 로 jaunt() 함수 사용"/>
+<Text Id="Hint_Controls_Sidearm_1" DisplayName="{A1} 로 ping() 함수 사용"/>
+<Text Id="Hint_Controls_Sidearm_2" DisplayName="{A2} 로 ping() 함수 사용"/>
+<Text Id="Hint_Controls_Sidearm_3" DisplayName="{A3} 로 ping() 함수 사용"/>
+<Text Id="Hint_Controls_Sidearm_4" DisplayName="{A4} 로 ping() 함수 사용"/>
+<Text Id="Hint_Controls_Orb_1" DisplayName="{A1} 로 flood() 함수 사용"/>
+<Text Id="Hint_Controls_Orb_2" DisplayName="{A2} 로 flood() 함수 사용"/>
+<Text Id="Hint_Controls_Orb_3" DisplayName="{A3} 로 flood() 함수 사용"/>
+<Text Id="Hint_Controls_Orb_4" DisplayName="{A4} 로 flood() 함수 사용"/>
+<Text Id="Hint_Controls_Bomb_1" DisplayName="{A1} 로 load() 함수 사용"/>
+<Text Id="Hint_Controls_Bomb_2" DisplayName="{A2} 로 load() 함수 사용"/>
+<Text Id="Hint_Controls_Bomb_3" DisplayName="{A3} 로 load() 함수 사용"/>
+<Text Id="Hint_Controls_Bomb_4" DisplayName="{A4} 로 load() 함수 사용"/>
 <Text Id="Hint_Controls_Epicenter_1" DisplayName="{A1} 로 친구() 함수 사용"/>
 <Text Id="Hint_Controls_Epicenter_2" DisplayName="{A2} 로 친구() 함수 사용"/>
 <Text Id="Hint_Controls_Epicenter_3" DisplayName="{A3} 로 친구() 함수 사용"/>
@@ -2757,22 +2757,22 @@ AdditionalDescription="> 셀 파괴 확률: \Column 240 \Format TextStat 90% \n 
 <Text Id="Hint_Controls_Hook_2" DisplayName="{A2} 로 끌기() 함수 사용"/>
 <Text Id="Hint_Controls_Hook_3" DisplayName="{A3} 로 끌기() 함수 사용"/>
 <Text Id="Hint_Controls_Hook_4" DisplayName="{A4} 로 끌기() 함수 사용"/>
-<Text Id="Hint_Controls_Uppercut_1" DisplayName="{A1} 로 도태시키기() 함수 사용"/>
-<Text Id="Hint_Controls_Uppercut_2" DisplayName="{A2} 로 도태시키기() 함수 사용"/>
-<Text Id="Hint_Controls_Uppercut_3" DisplayName="{A3} 로 도태시키기() 함수 사용"/>
-<Text Id="Hint_Controls_Uppercut_4" DisplayName="{A4} 로 도태시키기() 함수 사용"/>
+<Text Id="Hint_Controls_Uppercut_1" DisplayName="{A1} 로 cull() 함수 사용"/>
+<Text Id="Hint_Controls_Uppercut_2" DisplayName="{A2} 로 cull() 함수 사용"/>
+<Text Id="Hint_Controls_Uppercut_3" DisplayName="{A3} 로 cull() 함수 사용"/>
+<Text Id="Hint_Controls_Uppercut_4" DisplayName="{A4} 로 cull() 함수 사용"/>
 <Text Id="Hint_Controls_Lightstrike_1" DisplayName="{A1} 로 온수 탱크() 함수 사용"/>
 <Text Id="Hint_Controls_Lightstrike_2" DisplayName="{A2} 로 온수 탱크() 함수 사용"/>
 <Text Id="Hint_Controls_Lightstrike_3" DisplayName="{A3} 로 온수 탱크() 함수 사용"/>
 <Text Id="Hint_Controls_Lightstrike_4" DisplayName="{A4} 로 온수 탱크() 함수 사용"/>
-<Text Id="Hint_Controls_Slam" DisplayName="> {A1} 로 내려찍기() 함수 사용"/>
-<Text Id="Hint_Controls_Snipe" DisplayName="> {A2} 로 붕괴시키기() 함수 사용"/>
+<Text Id="Hint_Controls_Slam" DisplayName="> {A1} 로 crash() 함수 사용"/>
+<Text Id="Hint_Controls_Snipe" DisplayName="> {A2} 로 breach() 함수 사용"/>
 <Text Id="Hint_Controls_Orb2" DisplayName="{A3} 로 월장석() 함수 사용"/>
 <Text Id="Hint_Controls_Lightstrike" DisplayName="> {A2} 로 온수 탱크() 함수 사용"/>
-<Text Id="Hint_Controls_Bomb2" DisplayName="{A3} 로 채워넣기() 함수 사용"/>
+<Text Id="Hint_Controls_Bomb2" DisplayName="{A3} 로 load() 함수 사용"/>
 <Text Id="Hint_Mechanics_Backstab" DisplayName="최고의 결과를 위해 모함하다"/>
-<Text Id="Hint_Mechanics_Clusterbomb" DisplayName="> {A3} 을(를) 눌러 전격 클러스터() 조준"/>
-<Text Id="Hint_Mechanics_Snipe" DisplayName="> {A2} 을(를) 눌러 붕괴시키기() 조준"/>
+<Text Id="Hint_Mechanics_Clusterbomb" DisplayName="> {A3} 을(를) 눌러 spark() 조준"/>
+<Text Id="Hint_Mechanics_Snipe" DisplayName="> {A2} 을(를) 눌러 breach() 조준"/>
 <Text Id="Hint_Mechanics_Snipe_Mouse" DisplayName="{S} 을(를) 눌러 조준"/>
 
 <!-- Mechanics Hint -->
@@ -2785,46 +2785,46 @@ AdditionalDescription="> 셀 파괴 확률: \Column 240 \Format TextStat 90% \n 
 <Text Id="Mechanics_Backstab" DisplayName="최고의 결과를 위해 헐뜯는다"/>
 
 <Text Id="Mechanics_Bomb" DisplayName="덩어리를 폭발시키려면 공격하세요"/>
-<Text Id="Mechanics_Slam" DisplayName="콤보를 설정하기 위해 내려찍기()를 사용하세요"/>
-<Text Id="Mechanics_Charm" DisplayName="매혹()에 의해 영향을 받는 대상은 피해를 줄 수 없습니다"/>
-<Text Id="Mechanics_Hide" DisplayName="은신술()은 다음 공격을 강화시킵니다."/>
-<Text Id="Mechanics_Might" DisplayName="공허() 효과는 3번까지 중첩됩니다"/>
-<Text Id="Mechanics_Hook" DisplayName="끌어모으기()가 긴 범위로 강해집니다."/>
-<Text Id="Mechanics_Uppercut" DisplayName="도태시키기()는 가끔씩 한번에 2대를 칩니다"/>
-<Text Id="Mechanics_Tracker" DisplayName="기생충 주입() 효과는 중첩되지 않습니다."/>
-<Text Id="Mechanics_Heal" DisplayName="에너지 흡수()는 대상의 생명을 흡수합니다."/>
+<Text Id="Mechanics_Slam" DisplayName="콤보를 설정하기 위해 crash()를 사용하세요"/>
+<Text Id="Mechanics_Charm" DisplayName="switch()에 의해 영향을 받는 대상은 피해를 줄 수 없습니다"/>
+<Text Id="Mechanics_Hide" DisplayName="mask()은 다음 공격을 강화시킵니다."/>
+<Text Id="Mechanics_Might" DisplayName="void() 효과는 3번까지 중첩됩니다"/>
+<Text Id="Mechanics_Hook" DisplayName="get()가 긴 범위로 강해집니다."/>
+<Text Id="Mechanics_Uppercut" DisplayName="cull()는 가끔씩 한번에 2대를 칩니다"/>
+<Text Id="Mechanics_Tracker" DisplayName="purge() 효과는 중첩되지 않습니다."/>
+<Text Id="Mechanics_Heal" DisplayName="tap()는 대상의 생명을 흡수합니다."/>
 
-<Text Id="Hint_LowHealthFocus" DisplayName="비상 턴() 개시"/>
+<Text Id="Hint_LowHealthFocus" DisplayName="비상 turn() 개시"/>
 <Text Id="Hint_NoDeathPenaltyContinue" DisplayName="트랜지스터 오버로드됨"/>
 
 <!-- Sandbox Checkmate Hints -->
 <Text Id="Hint_Checkmate_HowToBackstab" DisplayName="백스탭 할 타겟의 뒤로 가시오."/>
-<Text Id="Hint_Checkmate_HowToCombo" DisplayName="내려찍기()는 대상을 약하게 만듭니다"/>
-<Text Id="Hint_Checkmate_HowToBomb" DisplayName="{A2} 로 채워넣기() 함수를 사용하세요"/>
+<Text Id="Hint_Checkmate_HowToCombo" DisplayName="crash()는 대상을 약하게 만듭니다"/>
+<Text Id="Hint_Checkmate_HowToBomb" DisplayName="{A2} 로 load() 함수를 사용하세요"/>
 
 <!-- Life Lost Hints -->
 <Text Id="Hint_Death_PowersReset" DisplayName="재설정"/>
 <Text Id="Hint_Death_Orb" DisplayName="> 새로운 함수: 월장석()"/>
 <Text Id="Hint_Death_Lightstrike" DisplayName="> 새로운 함수: 온수 탱크()"/>
-<Text Id="Hint_Death_Snipe" DisplayName="> 새로운 함수: 붕괴시키기()"/>
-<Text Id="Hint_Death_Clusterbomb" DisplayName="> 새로운 함수: 전격 클러스터()"/>
-<Text Id="Hint_Death_Bomb" DisplayName="> 새로운 함수: 채워넣기()"/>
+<Text Id="Hint_Death_Snipe" DisplayName="> 새로운 함수: breach()"/>
+<Text Id="Hint_Death_Clusterbomb" DisplayName="> 새로운 함수: spark()"/>
+<Text Id="Hint_Death_Bomb" DisplayName="> 새로운 함수: load()"/>
 
 <!-- Test Combat Hints -->
     <Text Id="Hint_Mouse_On" DisplayName="마우스"/>
     <Text Id="Hint_WASD_On" DisplayName="WASD"/>
     <Text Id="Hint_Gamepad_On" DisplayName="게임패드 | RT 로 초점 맞추기"/>
-    <Text Id="Hint_Controls_NewWeapon" DisplayName="{A3}을(를) 사용하여 붕괴시키기()"/>
+    <Text Id="Hint_Controls_NewWeapon" DisplayName="{A3}을(를) 사용하여 breach()"/>
 
 <!-- Additional Hints -->
 <Text Id="Hint_TurnAround" DisplayName="> {A2}을(를) 눌러주세요."/>
 <Text Id="Hint_Imperative" DisplayName="> 심각하게"/>
 <Text Id="Hint_ThisWay" DisplayName="이런식으로"/>
 <Text Id="Hint_Focus_Executing2" DisplayName="당신은 실행중에는 무적상태 입니다."/>
-<Text Id="Hint_Focus_NearDeath" DisplayName="낮은 체력에서 턴() 활성화"/>
+<Text Id="Hint_Focus_NearDeath" DisplayName="낮은 체력에서 turn() 활성화"/>
 <Text Id="Hint_CardFound" DisplayName="새 주소 위치"/>
 <Text Id="Hint_ReloadReminder" DisplayName="{R}을(를) 눌러 재장전하세요."/>
-<Text Id="Hint_Recovering" DisplayName="턴() 이 복구되는 동안 작업을 할 수 없습니다."/>
+<Text Id="Hint_Recovering" DisplayName="turn() 이 복구되는 동안 작업을 할 수 없습니다."/>
 <Text Id="Hint_HowToSwitchPowers" DisplayName="{A1} - {A5}을(를) 사용하여 기능을 전환 할 수 있음"/>
 <Text Id="Objective_Imprint" DisplayName="자취를 잠금 해제하려면 셀을 찾으세요"/>
 
@@ -2833,13 +2833,13 @@ AdditionalDescription="> 셀 파괴 확률: \Column 240 \Format TextStat 90% \n 
 <Text Id="Info_HowToSing" DisplayName="{LB}을(를) 눌러 콧노래를 흥얼거립니다."/>
 
 <!-- Test Art -->
-<Text Id="Hint_TestArt_Attack01" DisplayName="> {A1} 로 내려찍기() 함수 사용"/>
-<Text Id="Hint_TestArt_Attack02" DisplayName="> {A2} 로 붕괴시키기() 함수 사용"/>
+<Text Id="Hint_TestArt_Attack01" DisplayName="> {A1} 로 crash() 함수 사용"/>
+<Text Id="Hint_TestArt_Attack02" DisplayName="> {A2} 로 breach() 함수 사용"/>
 <Text Id="Hint_TestArt_Attack03" DisplayName="> {A3} 로 월장석() 함수 사용"/>
-<Text Id="Hint_TestArt_Attack04" DisplayName="> {A4} 로 순보() 함수 사용"/>
+<Text Id="Hint_TestArt_Attack04" DisplayName="> {A4} 로 jaunt() 함수 사용"/>
 
-<Text Id="Hint_TestArt_Focus" DisplayName="> {WL} 로 턴() 함수 사용"/>
-<Text Id="Hint_TestArt_Undo" DisplayName="> {U} 로 턴() 함수 되돌리기"/>
+<Text Id="Hint_TestArt_Focus" DisplayName="> {WL} 로 turn() 함수 사용"/>
+<Text Id="Hint_TestArt_Undo" DisplayName="> {U} 로 turn() 함수 되돌리기"/>
 <Text Id="Hint_TestArt_Revive" DisplayName="> {ST} 키를 눌러 되살아나기"/>
 
 <!-- Misc -->
@@ -2993,7 +2993,7 @@ AdditionalDescription="> 셀 파괴 확률: \Column 240 \Format TextStat 90% \n 
 <Text Id="Shielder_Upgrade_Level3" DisplayName="신규: 자기 보호"/>
 
 <Text Id="Lobber_Upgrade_Level2" DisplayName="신규: 흔적 추정 방지"/>
-<Text Id="Lobber_Upgrade_Level3" DisplayName="신규: 턴() 방해"/>
+<Text Id="Lobber_Upgrade_Level3" DisplayName="신규: turn() 방해"/>
 
 <Text Id="Flusher_Upgrade_Level2" DisplayName="새로운: 사냥 망토"/>
 <Text Id="Flusher_Upgrade_Level3" DisplayName="신규: 기절 짖기"/>
@@ -3108,23 +3108,23 @@ AdditionalDescription="클라우드뱅크의 숨겨진 뒷문들을 드러냅니
 
 <Text Id="CardBuyScreen_Info_Purchase_Meta_Unique" DisplayName="새 권한: 인증 부호"/>
 
-<Text Id="CardBuyScreen_Info_Purchase_Slam" DisplayName="새로운 함수: 내려찍기()"/>
-<Text Id="CardBuyScreen_Info_Purchase_Snipe" DisplayName="새로운 함수: 붕괴시키기()"/>
-<Text Id="CardBuyScreen_Info_Purchase_Clusterbomb" DisplayName="새로운 함수: 전격 클러스터()"/>
-<Text Id="CardBuyScreen_Info_Purchase_ClusterbombGP" DisplayName="새로운 함수: 전격 클러스터()"/>
-<Text Id="CardBuyScreen_Info_Purchase_Blink" DisplayName="새로운 함수: 순보()"/>
-<Text Id="CardBuyScreen_Info_Purchase_Sidearm" DisplayName="새로운 함수: 정밀사격()"/>
-<Text Id="CardBuyScreen_Info_Purchase_Bomb" DisplayName="새로운 함수: 채워넣기()"/>
-<Text Id="CardBuyScreen_Info_Purchase_Jumper" DisplayName="새로운 함수: 튕기기()"/>
-<Text Id="CardBuyScreen_Info_Purchase_Tracker" DisplayName="새로운 함수: 기생충 주입()"/>
-<Text Id="CardBuyScreen_Info_Purchase_Orb" DisplayName="새로운 함수: 에너지 쇄도()"/>
-<Text Id="CardBuyScreen_Info_Purchase_Uppercut" DisplayName="새로운 함수: 도태시키기()"/>
-<Text Id="CardBuyScreen_Info_Purchase_Hook" DisplayName="새로운 함수: 끌어모으기()"/>
-<Text Id="CardBuyScreen_Info_Purchase_Charm" DisplayName="새로운 함수: 매혹()"/>
-<Text Id="CardBuyScreen_Info_Purchase_Might" DisplayName="새로운 함수: 공허()"/>
-<Text Id="CardBuyScreen_Info_Purchase_Heal" DisplayName="새로운 함수: 에너지 흡수()"/>
-<Text Id="CardBuyScreen_Info_Purchase_Hide" DisplayName="새로운 함수: 은신술()"/>
-<Text Id="CardBuyScreen_Info_Purchase_Summon" DisplayName="새로운 함수: 도움!()"/>
+<Text Id="CardBuyScreen_Info_Purchase_Slam" DisplayName="새로운 함수: crash()"/>
+<Text Id="CardBuyScreen_Info_Purchase_Snipe" DisplayName="새로운 함수: breach()"/>
+<Text Id="CardBuyScreen_Info_Purchase_Clusterbomb" DisplayName="새로운 함수: spark()"/>
+<Text Id="CardBuyScreen_Info_Purchase_ClusterbombGP" DisplayName="새로운 함수: spark()"/>
+<Text Id="CardBuyScreen_Info_Purchase_Blink" DisplayName="새로운 함수: jaunt()"/>
+<Text Id="CardBuyScreen_Info_Purchase_Sidearm" DisplayName="새로운 함수: ping()"/>
+<Text Id="CardBuyScreen_Info_Purchase_Bomb" DisplayName="새로운 함수: load()"/>
+<Text Id="CardBuyScreen_Info_Purchase_Jumper" DisplayName="새로운 함수: bounce()"/>
+<Text Id="CardBuyScreen_Info_Purchase_Tracker" DisplayName="새로운 함수: purge()"/>
+<Text Id="CardBuyScreen_Info_Purchase_Orb" DisplayName="새로운 함수: flood()"/>
+<Text Id="CardBuyScreen_Info_Purchase_Uppercut" DisplayName="새로운 함수: cull()"/>
+<Text Id="CardBuyScreen_Info_Purchase_Hook" DisplayName="새로운 함수: get()"/>
+<Text Id="CardBuyScreen_Info_Purchase_Charm" DisplayName="새로운 함수: switch()"/>
+<Text Id="CardBuyScreen_Info_Purchase_Might" DisplayName="새로운 함수: void()"/>
+<Text Id="CardBuyScreen_Info_Purchase_Heal" DisplayName="새로운 함수: tap()"/>
+<Text Id="CardBuyScreen_Info_Purchase_Hide" DisplayName="새로운 함수: mask()"/>
+<Text Id="CardBuyScreen_Info_Purchase_Summon" DisplayName="새로운 함수: help()"/>
 
 <!-- SlotSelectionDialog -->
 <Text Id="SlotSelectionDialog_Title" DisplayName="새로 업그레이드 할 슬롯을 골라주세요"/>
@@ -3432,7 +3432,7 @@ AdditionalDescription="이제 프로세스가 파괴되었을 경우 손상된 �
 
 <Text Id="Limiter_NoAutoFocus" InheritFrom="BaseEggUpgrade" DisplayName="집중"
 Description="+ 유저 레벨 보너스: {XPBONUSPERCENT}"
-AdditionalDescription="플레이어의 목숨이 낮다면 더 이상 턴()을 자동으로 발동할 수 없습니다."/>
+AdditionalDescription="플레이어의 목숨이 낮다면 더 이상 turn()을 자동으로 발동할 수 없습니다."/>
 
 <Text Id="Limiter_NoAutoFocus_Bio_Summary" Description="\Format TextCommentA 역할 \n \Format TextBodyB 저격수 \n \n \Format TextCommentA 기능 \n \Format TextBodyB + 탄도 미사일 발사기 \n \Format TextBodyB + 모든 지형에서 이동 가능함 \n \Format TextBodyB + 방해 시스템 (몇몇 버전 한정) \n \n \Format TextCommentA 취약점 \n \Format TextBodyB - 시야가 넓은 원거리 공격자 \n \n \Format TextCommentA 선호하는 것 \n \Format TextBodyB 이족 보행 따라하기, \n \Format TextBodyB 슈팅 콘테스트." />
 <Text Id="Limiter_NoAutoFocus_Bio_Details" Description="\Format TextSubtitleB 암호화된 코멘트가 소스 관리자에서 감지되었습니다. \n \Format TextTitleA 명칭: '클러커'"
@@ -3547,7 +3547,7 @@ AdditionalDescription="이제 출현하는 프로세스의 숫자가 훨씬 많�
 <Text Id="MoveRight" DisplayName="우로 이동"/>
 <Text Id="Undo" DisplayName="설계 취소하기"/>
 <Text Id="Stop" DisplayName="움직임 멈추기"/>
-<Text Id="Focus" DisplayName="턴() 발동시키기"/>
+<Text Id="Focus" DisplayName="turn() 발동시키기"/>
 
 <Text Id="Up" DisplayName="위"/>
 <Text Id="Down" DisplayName="아래"/>
@@ -3674,9 +3674,9 @@ AdditionalDescription="이제 출현하는 프로세스의 숫자가 훨씬 많�
 <Text Id="AchSandboxShowdown" DisplayName="그들만의 비밀암호()"
   Description="각각의 에이전시 테스트를 완수하세요."/>
 <Text Id="AchTurnDamageA" DisplayName="2의 10승이 뭐였더라()"
-  Description="연습 테스트에서 한 턴()동안 적어도1024 피해를 주세요."/>
+  Description="연습 테스트에서 한 turn()동안 적어도1024 피해를 주세요."/>
 <Text Id="AchTurnDamageB" DisplayName="골드워크공대 산수학과()"
-  Description="연습 테스트에서 한 턴()동안 적어도 2048 피해를 주세요."/>
+  Description="연습 테스트에서 한 turn()동안 적어도 2048 피해를 주세요."/>
 <Text Id="AchSandboxAll" DisplayName="이분 최소 올림픽 5관왕()"
   Description="모든 테스트를 완수하세요."/>
 <Text Id="AchCompleteStory" DisplayName="잘 가, 레드()"
@@ -3777,8 +3777,8 @@ AdditionalDescription="이제 출현하는 프로세스의 숫자가 훨씬 많�
 <Text Id="Ok" DisplayName="확인"/>
 
 <Text Id="InGameUI_Pause" DisplayName="일시정지"/>
-<Text Id="InGameUI_Focus" DisplayName="턴()"/>
-<Text Id="InGameUI_Execute" DisplayName="턴()"/>
+<Text Id="InGameUI_Focus" DisplayName="turn()"/>
+<Text Id="InGameUI_Execute" DisplayName="turn()"/>
 <Text Id="InGameUI_PlanningCancel" DisplayName="행동 취소"/>
 <Text Id="InGameUI_Undo" DisplayName="행동 취소"/>
 <Text Id="InGameUI_CycleLeft" DisplayName="이전 유닛"/>
@@ -4265,7 +4265,7 @@ AdditionalDescription="이제 출현하는 프로세스의 숫자가 훨씬 많�
 <Text Id="Slam_Clusterbomb_Upgrade" InheritFrom="Slam_Sidearm_Upgrade"/>
 <Text Id="Slam_Orb_Upgrade" InheritFrom="Slam_Sidearm_Upgrade"/>
 
-<Text Id="Sandbox01_Pet_Text01" DisplayName="> Times 도움!() Used:"/>
+<Text Id="Sandbox01_Pet_Text01" DisplayName="> Times help() Used:"/>
 
 <Text Id="Goldwalk_Scanner04" DisplayName="정션 잰"/>
 <Text Id="Goldwalk_Scanner04Text01" DisplayName="> 만족도 보증:"/>
@@ -4334,7 +4334,7 @@ AdditionalDescription="이제 출현하는 프로세스의 숫자가 훨씬 많�
 <Text Id="GameExit_MessageSandboxAlt" DisplayName="지금 종료하시겠습니까? \n \n 참고: 현재 테스트의 진행 상황은 저장되지 않습니다."/>
 
 <Text Id="Hint_Controls_Slam_PC" DisplayName="> {S}을(를) 누르세요"/>
-<Text Id="Hint_Controls_Snipe_PC" DisplayName="> {A2}을(를) 눌러 붕괴시키기()로 전환하세요"/>
+<Text Id="Hint_Controls_Snipe_PC" DisplayName="> {A2}을(를) 눌러 breach()로 전환하세요"/>
 
 <Text Id="SaveErrorNoSpace" DisplayName="저장할 수 있는 공간이 부족합니다. \n \n 재시도합니까?"/>
 <Text Id="SaveErrorCorrupt" DisplayName="세이브 데이터가 손상되어 읽을 수 없습니다."/>
@@ -4344,11 +4344,11 @@ AdditionalDescription="이제 출현하는 프로세스의 숫자가 훨씬 많�
 
 <Text Id="BerserkerWeapon" DisplayName="타격()"/>
 
-<Text Id="Focus_Info_Combat_ArchonAttack_6" DisplayName="암살() 이 배후 공격 시 추가 피해를 입히지 않습니다."/>
-<Text Id="Focus_Info_Combat_Orb_7" DisplayName="에너지 쇄도()가 배후 공격 시 추가 피해를 입히지 않습니다."/>
+<Text Id="Focus_Info_Combat_ArchonAttack_6" DisplayName="kill() 이 배후 공격 시 추가 피해를 입히지 않습니다."/>
+<Text Id="Focus_Info_Combat_Orb_7" DisplayName="flood()가 배후 공격 시 추가 피해를 입히지 않습니다."/>
 <Text Id="Focus_Info_Combat_Bomb_8" DisplayName="덩어리들이 폭발할 때 적에게 가까울수록 더 큰 피해를 줍니다."/>
-<Text Id="Focus_Info_Combat_Bomb_9" DisplayName="폭발한 채워넣기()의 덩어리들이 배후 공격 시 추가 피해를 입히지 않습니다."/>
-<Text Id="Focus_Info_Combat_Clusterbomb_7" DisplayName="전격 클러스터()가 배후 공격 시 추가 피해를 입히지 않습니다."/>
+<Text Id="Focus_Info_Combat_Bomb_9" DisplayName="폭발한 load()의 덩어리들이 배후 공격 시 추가 피해를 입히지 않습니다."/>
+<Text Id="Focus_Info_Combat_Clusterbomb_7" DisplayName="spark()가 배후 공격 시 추가 피해를 입히지 않습니다."/>
 
 <Text Id="PauseMenuScreenRestartDescNGPlus" DisplayName="최근 저장 데이터를 불러옵니까? 현재 데이터는 저장되지 않습니다.\n \n 참고: 액세스 포인트를 사용하면 자동으로 저장됩니다."/>
 <Text Id="GameExit_MessageAltNGPlus" DisplayName="게임을 종료합니까? \n \n 참고: 액세스 포인트를 사용하면 자동으로 저장됩니다."/>
