@@ -1012,8 +1012,8 @@ AdditionalDescription="> 상승 영향"/>
 Description="{0} 대상을 더 세게 쳐 공중으로 더 높이 띄웁니다."
 AdditionalDescription="> 최대 피해: \Column 240 \Format TextStat 125% \n > 띄우기 효과 강화"/>
 
-<Text Id="PlayerExecuteWeapon" DisplayName="확인()"/>
-<Text Id="PetExecuteWeapon" DisplayName="공격지령()"/>
+<Text Id="PlayerExecuteWeapon" DisplayName="check()"/>
+<Text Id="PetExecuteWeapon" DisplayName="sic()"/>
 
 
 <!-- Hook a.k.a. get() -->
@@ -1386,33 +1386,33 @@ AdditionalDescription="> 셀 파괴 확률: \Column 240 \Format TextStat 50%"/>
 Description="{0} 근처 대상들에게 연쇄 공격합니다."
 AdditionalDescription="> 연쇄 공격 횟수: \Column 240 \Format TextStat 3 \n > 연쇄 공격 반경: \Column 240 \Format TextStat 350"/>
 
-<Text Id="PlayerPetBark" DisplayName="짖기()"/>
+<Text Id="PlayerPetBark" DisplayName="bark()"/>
 
 <Text Id="ArchonAttack" DisplayName="kill()"/>
 
 <Text Id="Slam_Pet" InheritFrom="Slam"
 Description="{0}은(는) 대상을 기절시키고 기절에 면역인 강한 동료를 소환합니다."
-AdditionalDescription="> 동료 기절 내성 \n > 짖기() 스턴 지속시간: \Column 240 \Format TextStat 1.6초 \n > 동료 목숨: \Column 240 \Format TextStat 200%"/>
+AdditionalDescription="> 동료 기절 내성 \n > bark() 스턴 지속시간: \Column 240 \Format TextStat 1.6초 \n > 동료 목숨: \Column 240 \Format TextStat 200%"/>
 
 <Text Id="Snipe_Pet" InheritFrom="Snipe"
 Description="{0}은(는) 긴 공격 범위와 더 많은 턴을 계획할 수 있는 강한 동료를 소환합니다."
-AdditionalDescription="> 효과() 범위: \Column 240 \Format TextStat 300% \n > turn() 계획: \Column 240 \Format TextStat 130% \n > 동료 생명: \Column 240 \Format TextStat 200%"/>
+AdditionalDescription="> bark() 범위: \Column 240 \Format TextStat 300% \n > turn() 계획: \Column 240 \Format TextStat 130% \n > 동료 생명: \Column 240 \Format TextStat 200%"/>
 
 <Text Id="Clusterbomb_Pet" InheritFrom="Clusterbomb"
 Description="{0}은(는) 각각 턴을 계획할 수 있는 2마리의 작은 동료를 소환합니다."
-AdditionalDescription="> 동료 생성됨: \Column 240 \Format TextStat 2 \n > 효과() 대미지 감소: \Column 240 \Format TextStat 25%"/>
+AdditionalDescription="> 동료 생성됨: \Column 240 \Format TextStat 2 \n > bark() 대미지 감소: \Column 240 \Format TextStat 25%"/>
 
 <Text Id="Blink_Pet" InheritFrom="Blink"
 Description="{0}은(는) 강하고 빠른 공격이 가능한 동료를 소환합니다. 턴에서 사용할 수 있고, 쿨다운이 50% 더 빠릅니다."
-AdditionalDescription="> 쿨다운 속도: \Column 240 \Format TextStat 150% \n > 효과() 공격 속도: \Column 240 \Format TextStat 50% \n > 동료 생명: \Column 240 \Format TextStat 200%"/>
+AdditionalDescription="> 쿨다운 속도: \Column 240 \Format TextStat 150% \n > bark() 공격 속도: \Column 240 \Format TextStat 50% \n > 동료 생명: \Column 240 \Format TextStat 200%"/>
 
 <Text Id="Bomb_Pet" InheritFrom="Bomb"
 Description="{0}은(는) 폭발 범위 공격 효과를 가진 강한 동료를 소환합니다."
-AdditionalDescription="> 효과() 대미지: \Column 240 \Format TextStat 125% \n > 폭발() 효과 범위: \Column 240 \Format TextStat 250 \n > 동료 생명: \Column 240 \Format TextStat 200%"/>
+AdditionalDescription="> bark() 대미지: \Column 240 \Format TextStat 125% \n > bark() 효과 범위: \Column 240 \Format TextStat 250 \n > 동료 생명: \Column 240 \Format TextStat 200%"/>
 
 <Text Id="Sidearm_Pet" InheritFrom="Sidearm"
 Description="{0}은(는) 턴에서 더 효과적으로 사용 가능한 강하고 빠른 이동속도를 가진 동료를 소환합니다."
-AdditionalDescription="> 이동 속도: \Column 240 \Format TextStat 150% \n > 효과() 비용 감소: \Column 240 \Format TextStat 50% \n > 동료 생명: \Column 240 \Format TextStat 200%"/>
+AdditionalDescription="> 이동 속도: \Column 240 \Format TextStat 150% \n > bark() 비용 감소: \Column 240 \Format TextStat 50% \n > 동료 생명: \Column 240 \Format TextStat 200%"/>
 
 <Text Id="Heal_Pet" InheritFrom="Heal"
 Description="{0}은(는) 매시간마다 추가로 회복을 해주는 강한 동료를 소환합니다."
@@ -1420,11 +1420,11 @@ AdditionalDescription="> 리젠 사용 \n > 동료 생명: \Column 240 \Format T
 
 <Text Id="Might_Pet" InheritFrom="Might"
 Description="{0}은(는) 더 강한 효과를 가진 강한 동료를 소환합니다."
-AdditionalDescription="> 효과() 대미지: \Column 240 \Format TextStat 150% \n > 동료 생명: \Column 240 \Format TextStat 200%"/>
+AdditionalDescription="> bark() 대미지: \Column 240 \Format TextStat 150% \n > 동료 생명: \Column 240 \Format TextStat 200%"/>
 
 <Text Id="Hook_Pet" InheritFrom="Hook"
 Description="{0}은(는) 대상을 끌어당기는 효과를 가진 동료를 소환합니다."
-AdditionalDescription="> 대상을 끌어당기는 효과() \n > 동료 생명: \Column 240 \Format TextStat 200%"/>
+AdditionalDescription="> 대상을 끌어당기는 bark() \n > 동료 생명: \Column 240 \Format TextStat 200%"/>
 
 <Text Id="Orb_Pet" InheritFrom="Orb"
 Description="{0}은(는) 근처의 대상에게 피해를 주는 대미지 필드에 쌓여있는 강한 동료를 소환합니다."
@@ -1432,23 +1432,23 @@ AdditionalDescription="> 범위 피해: \Column 240 \Format TextStat 초 당 30 
 
 <Text Id="Hide_Pet" InheritFrom="Hide"
 Description="{0}은(는) 강력한 백스탭 대미지를 주는 은신하는 동료를 소환합니다."
-AdditionalDescription="> 은신 중 대상 제거 \n > 효과() 백스탭 대미지: \Column 240 \Format TextStat 200% \n > 동료 생명: \Column 240 \Format TextStat 200%"/>
+AdditionalDescription="> 은신 중 대상 제거 \n > bark() 백스탭 대미지: \Column 240 \Format TextStat 200% \n > 동료 생명: \Column 240 \Format TextStat 200%"/>
 
 <Text Id="Charm_Pet" InheritFrom="Charm"
 Description="{0}은(는) 대상의 관심을 바꾸는 효과를 가진 동료를 소환합니다."
-AdditionalDescription="> 짖기() 매혹 지속 시간: \Column 240 \Format TextStat 3.5초 \n > 동료 목숨: \Column 240 \Format TextStat 200%"/>
+AdditionalDescription="> bark() 매혹 지속 시간: \Column 240 \Format TextStat 3.5초 \n > 동료 목숨: \Column 240 \Format TextStat 200%"/>
 
 <Text Id="Tracker_Pet" InheritFrom="Tracker"
 Description="{0}은(는) 매시간마다 대미지를 주는 효과를 가진 강한 동료를 소환합니다."
-AdditionalDescription="> 피해 시간 효과() \n > 동료 생명: \Column 240 \Format TextStat 200%"/>
+AdditionalDescription="> 피해 시간 bark() \n > 동료 생명: \Column 240 \Format TextStat 200%"/>
 
 <Text Id="Uppercut_Pet" InheritFrom="Uppercut"
 Description="{0}은(는) turn()이 실행되는 동안 대상에게 접족하여 대미지를 주는 강한 동료를 소환합니다."
-AdditionalDescription="> 새로운 활성: \Column 240 \Format TextStat Sic() \n > 기본 피해: \Column 240 \Format TextStat 150 \n > 동료 생명: \Column 240 \Format TextStat 200%"/>
+AdditionalDescription="> 새로운 활성: \Column 240 \Format TextStat sic() \n > 기본 피해: \Column 240 \Format TextStat 150 \n > 동료 생명: \Column 240 \Format TextStat 200%"/>
 
 <Text Id="Jumper_Pet" InheritFrom="Jumper"
 Description="{0}은(는) 대상과의 사이에 연결되는 강한 동료를 소환합니다."
-AdditionalDescription="> 점프 효과() : \Column 240 \Format TextStat 5 \n > 감소된 점프 대미지: \Column 240 \Format TextStat 20% \n > 동료 생명: \Column 240 \Format TextStat 200%"/>
+AdditionalDescription="> 점프 bark() : \Column 240 \Format TextStat 5 \n > 감소된 점프 대미지: \Column 240 \Format TextStat 20% \n > 동료 생명: \Column 240 \Format TextStat 200%"/>
 
 <Text Id="Summon_Pet" InheritFrom="Summon"
 Description="{0}은(는)  90%의 확률로 셀의 생성을 방해하는 효과를 가진 강한 동료를 소환합니다."
@@ -2745,32 +2745,32 @@ AdditionalDescription="> 셀 파괴 확률: \Column 240 \Format TextStat 90% \n 
 <Text Id="Hint_Controls_Bomb_2" DisplayName="{A2} 로 load() 함수 사용"/>
 <Text Id="Hint_Controls_Bomb_3" DisplayName="{A3} 로 load() 함수 사용"/>
 <Text Id="Hint_Controls_Bomb_4" DisplayName="{A4} 로 load() 함수 사용"/>
-<Text Id="Hint_Controls_Epicenter_1" DisplayName="{A1} 로 친구() 함수 사용"/>
-<Text Id="Hint_Controls_Epicenter_2" DisplayName="{A2} 로 친구() 함수 사용"/>
-<Text Id="Hint_Controls_Epicenter_3" DisplayName="{A3} 로 친구() 함수 사용"/>
-<Text Id="Hint_Controls_Epicenter_4" DisplayName="{A4} 로 친구() 함수 사용"/>
-<Text Id="Hint_Controls_Nova_1" DisplayName="{A1} 로 절규() 함수 사용"/>
-<Text Id="Hint_Controls_Nova_2" DisplayName="{A2} 로 절규() 함수 사용"/>
-<Text Id="Hint_Controls_Nova_3" DisplayName="{A3} 로 절규() 함수 사용"/>
-<Text Id="Hint_Controls_Nova_4" DisplayName="{A4} 로 절규() 함수 사용"/>
-<Text Id="Hint_Controls_Hook_1" DisplayName="{A1} 로 끌기() 함수 사용"/>
-<Text Id="Hint_Controls_Hook_2" DisplayName="{A2} 로 끌기() 함수 사용"/>
-<Text Id="Hint_Controls_Hook_3" DisplayName="{A3} 로 끌기() 함수 사용"/>
-<Text Id="Hint_Controls_Hook_4" DisplayName="{A4} 로 끌기() 함수 사용"/>
+<Text Id="Hint_Controls_Epicenter_1" DisplayName="{A1} 로 friend() 함수 사용"/>
+<Text Id="Hint_Controls_Epicenter_2" DisplayName="{A2} 로 friend() 함수 사용"/>
+<Text Id="Hint_Controls_Epicenter_3" DisplayName="{A3} 로 friend() 함수 사용"/>
+<Text Id="Hint_Controls_Epicenter_4" DisplayName="{A4} 로 friend() 함수 사용"/>
+<Text Id="Hint_Controls_Nova_1" DisplayName="{A1} 로 scream() 함수 사용"/>
+<Text Id="Hint_Controls_Nova_2" DisplayName="{A2} 로 scream() 함수 사용"/>
+<Text Id="Hint_Controls_Nova_3" DisplayName="{A3} 로 scream() 함수 사용"/>
+<Text Id="Hint_Controls_Nova_4" DisplayName="{A4} 로 scream() 함수 사용"/>
+<Text Id="Hint_Controls_Hook_1" DisplayName="{A1} 로 hook() 함수 사용"/>
+<Text Id="Hint_Controls_Hook_2" DisplayName="{A2} 로 hook() 함수 사용"/>
+<Text Id="Hint_Controls_Hook_3" DisplayName="{A3} 로 hook() 함수 사용"/>
+<Text Id="Hint_Controls_Hook_4" DisplayName="{A4} 로 hook() 함수 사용"/>
 <Text Id="Hint_Controls_Uppercut_1" DisplayName="{A1} 로 cull() 함수 사용"/>
 <Text Id="Hint_Controls_Uppercut_2" DisplayName="{A2} 로 cull() 함수 사용"/>
 <Text Id="Hint_Controls_Uppercut_3" DisplayName="{A3} 로 cull() 함수 사용"/>
 <Text Id="Hint_Controls_Uppercut_4" DisplayName="{A4} 로 cull() 함수 사용"/>
-<Text Id="Hint_Controls_Lightstrike_1" DisplayName="{A1} 로 온수 탱크() 함수 사용"/>
-<Text Id="Hint_Controls_Lightstrike_2" DisplayName="{A2} 로 온수 탱크() 함수 사용"/>
-<Text Id="Hint_Controls_Lightstrike_3" DisplayName="{A3} 로 온수 탱크() 함수 사용"/>
-<Text Id="Hint_Controls_Lightstrike_4" DisplayName="{A4} 로 온수 탱크() 함수 사용"/>
+<Text Id="Hint_Controls_Lightstrike_1" DisplayName="{A1} 로 geyser() 함수 사용"/>
+<Text Id="Hint_Controls_Lightstrike_2" DisplayName="{A2} 로 geyser() 함수 사용"/>
+<Text Id="Hint_Controls_Lightstrike_3" DisplayName="{A3} 로 geyser() 함수 사용"/>
+<Text Id="Hint_Controls_Lightstrike_4" DisplayName="{A4} 로 geyser() 함수 사용"/>
 <Text Id="Hint_Controls_Slam" DisplayName="> {A1} 로 crash() 함수 사용"/>
 <Text Id="Hint_Controls_Snipe" DisplayName="> {A2} 로 breach() 함수 사용"/>
-<Text Id="Hint_Controls_Orb2" DisplayName="{A3} 로 월장석() 함수 사용"/>
-<Text Id="Hint_Controls_Lightstrike" DisplayName="> {A2} 로 온수 탱크() 함수 사용"/>
+<Text Id="Hint_Controls_Orb2" DisplayName="{A3} 로 moonstone() 함수 사용"/>
+<Text Id="Hint_Controls_Lightstrike" DisplayName="> {A2} 로 geyser() 함수 사용"/>
 <Text Id="Hint_Controls_Bomb2" DisplayName="{A3} 로 load() 함수 사용"/>
-<Text Id="Hint_Mechanics_Backstab" DisplayName="최고의 결과를 위해 모함하다"/>
+<Text Id="Hint_Mechanics_Backstab" DisplayName="최고의 결과를 위해 뒤에서 공격하십시오"/>
 <Text Id="Hint_Mechanics_Clusterbomb" DisplayName="> {A3} 을(를) 눌러 spark() 조준"/>
 <Text Id="Hint_Mechanics_Snipe" DisplayName="> {A2} 을(를) 눌러 breach() 조준"/>
 <Text Id="Hint_Mechanics_Snipe_Mouse" DisplayName="{S} 을(를) 눌러 조준"/>
@@ -2804,8 +2804,8 @@ AdditionalDescription="> 셀 파괴 확률: \Column 240 \Format TextStat 90% \n 
 
 <!-- Life Lost Hints -->
 <Text Id="Hint_Death_PowersReset" DisplayName="재설정"/>
-<Text Id="Hint_Death_Orb" DisplayName="> 새로운 함수: 월장석()"/>
-<Text Id="Hint_Death_Lightstrike" DisplayName="> 새로운 함수: 온수 탱크()"/>
+<Text Id="Hint_Death_Orb" DisplayName="> 새로운 함수: moonstone()"/>
+<Text Id="Hint_Death_Lightstrike" DisplayName="> 새로운 함수: geyser()"/>
 <Text Id="Hint_Death_Snipe" DisplayName="> 새로운 함수: breach()"/>
 <Text Id="Hint_Death_Clusterbomb" DisplayName="> 새로운 함수: spark()"/>
 <Text Id="Hint_Death_Bomb" DisplayName="> 새로운 함수: load()"/>
@@ -2835,7 +2835,7 @@ AdditionalDescription="> 셀 파괴 확률: \Column 240 \Format TextStat 90% \n 
 <!-- Test Art -->
 <Text Id="Hint_TestArt_Attack01" DisplayName="> {A1} 로 crash() 함수 사용"/>
 <Text Id="Hint_TestArt_Attack02" DisplayName="> {A2} 로 breach() 함수 사용"/>
-<Text Id="Hint_TestArt_Attack03" DisplayName="> {A3} 로 월장석() 함수 사용"/>
+<Text Id="Hint_TestArt_Attack03" DisplayName="> {A3} 로 moonstone() 함수 사용"/>
 <Text Id="Hint_TestArt_Attack04" DisplayName="> {A4} 로 jaunt() 함수 사용"/>
 
 <Text Id="Hint_TestArt_Focus" DisplayName="> {WL} 로 turn() 함수 사용"/>
@@ -2931,7 +2931,7 @@ AdditionalDescription="> 셀 파괴 확률: \Column 240 \Format TextStat 90% \n 
 <Text Id="Heart01" InheritFrom="MonsterTail"/>
 
 <Text Id="Haunt" DisplayName="머리카락"/>
-<Text Id="HauntExplode" DisplayName="면도()"/>
+<Text Id="HauntExplode" DisplayName="shave()"/>
 <Text Id="HaunterCloaker" DisplayName="맨"/>
 <Text Id="HaunterMover" InheritFrom="HaunterCloaker"/>
 <Text Id="HaunterShooter" InheritFrom="HaunterCloaker"/>
